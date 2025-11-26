@@ -1,0 +1,6009 @@
+{
+	"profile": {
+		"firstName": "Андрей",
+		"lastName": "Мушовец",
+		"age": 22
+	},
+	"words": [
+		{
+			"id": "1",
+			"russian": "привет",
+			"english": "hello",
+			"isGuessed": false
+		},
+		{
+			"id": "2",
+			"russian": "дом",
+			"english": "house",
+			"isGuessed": false
+		},
+		{
+			"id": "3",
+			"russian": "кот",
+			"english": "cat",
+			"isGuessed": false
+		},
+		{
+			"id": "4",
+			"russian": "собака",
+			"english": "dog",
+			"isGuessed": false
+		},
+		{
+			"id": "5",
+			"russian": "яблоко",
+			"english": "apple",
+			"isGuessed": false
+		},
+		{
+			"id": "6",
+			"russian": "вода",
+			"english": "water",
+			"isGuessed": false
+		},
+		{
+			"id": "7",
+			"russian": "хлеб",
+			"english": "bread",
+			"isGuessed": false
+		},
+		{
+			"id": "8",
+			"russian": "мама",
+			"english": "mother",
+			"isGuessed": false
+		},
+		{
+			"id": "9",
+			"russian": "папа",
+			"english": "father",
+			"isGuessed": false
+		},
+		{
+			"id": "10",
+			"russian": "книга",
+			"english": "book",
+			"isGuessed": false
+		},
+		{
+			"id": "11",
+			"russian": "стол",
+			"english": "table",
+			"isGuessed": false
+		},
+		{
+			"id": "12",
+			"russian": "стул",
+			"english": "chair",
+			"isGuessed": false
+		},
+		{
+			"id": "13",
+			"russian": "окно",
+			"english": "window",
+			"isGuessed": false
+		},
+		{
+			"id": "14",
+			"russian": "дверь",
+			"english": "door",
+			"isGuessed": false
+		},
+		{
+			"id": "15",
+			"russian": "машина",
+			"english": "car",
+			"isGuessed": false
+		},
+		{
+			"id": "16",
+			"russian": "город",
+			"english": "city",
+			"isGuessed": false
+		},
+		{
+			"id": "17",
+			"russian": "страна",
+			"english": "country",
+			"isGuessed": false
+		},
+		{
+			"id": "18",
+			"russian": "школа",
+			"english": "school",
+			"isGuessed": false
+		},
+		{
+			"id": "19",
+			"russian": "работа",
+			"english": "work",
+			"isGuessed": false
+		},
+		{
+			"id": "20",
+			"russian": "день",
+			"english": "day",
+			"isGuessed": false
+		},
+		{
+			"id": "21",
+			"russian": "ночь",
+			"english": "night",
+			"isGuessed": false
+		},
+		{
+			"id": "22",
+			"russian": "солнце",
+			"english": "sun",
+			"isGuessed": false
+		},
+		{
+			"id": "23",
+			"russian": "луна",
+			"english": "moon",
+			"isGuessed": false
+		},
+		{
+			"id": "24",
+			"russian": "звезда",
+			"english": "star",
+			"isGuessed": false
+		},
+		{
+			"id": "25",
+			"russian": "небо",
+			"english": "sky",
+			"isGuessed": false
+		},
+		{
+			"id": "26",
+			"russian": "земля",
+			"english": "earth",
+			"isGuessed": false
+		},
+		{
+			"id": "27",
+			"russian": "море",
+			"english": "sea",
+			"isGuessed": false
+		},
+		{
+			"id": "28",
+			"russian": "река",
+			"english": "river",
+			"isGuessed": false
+		},
+		{
+			"id": "29",
+			"russian": "лес",
+			"english": "forest",
+			"isGuessed": false
+		},
+		{
+			"id": "30",
+			"russian": "гора",
+			"english": "mountain",
+			"isGuessed": false
+		},
+		{
+			"id": "31",
+			"russian": "дерево",
+			"english": "tree",
+			"isGuessed": false
+		},
+		{
+			"id": "32",
+			"russian": "цветок",
+			"english": "flower",
+			"isGuessed": false
+		},
+		{
+			"id": "33",
+			"russian": "трава",
+			"english": "grass",
+			"isGuessed": false
+		},
+		{
+			"id": "34",
+			"russian": "птица",
+			"english": "bird",
+			"isGuessed": false
+		},
+		{
+			"id": "35",
+			"russian": "рыба",
+			"english": "fish",
+			"isGuessed": false
+		},
+		{
+			"id": "36",
+			"russian": "лошадь",
+			"english": "horse",
+			"isGuessed": false
+		},
+		{
+			"id": "37",
+			"russian": "корова",
+			"english": "cow",
+			"isGuessed": false
+		},
+		{
+			"id": "38",
+			"russian": "свинья",
+			"english": "pig",
+			"isGuessed": false
+		},
+		{
+			"id": "39",
+			"russian": "курица",
+			"english": "chicken",
+			"isGuessed": false
+		},
+		{
+			"id": "40",
+			"russian": "овца",
+			"english": "sheep",
+			"isGuessed": false
+		},
+		{
+			"id": "41",
+			"russian": "коза",
+			"english": "goat",
+			"isGuessed": false
+		},
+		{
+			"id": "42",
+			"russian": "мышь",
+			"english": "mouse",
+			"isGuessed": false
+		},
+		{
+			"id": "43",
+			"russian": "заяц",
+			"english": "rabbit",
+			"isGuessed": false
+		},
+		{
+			"id": "44",
+			"russian": "волк",
+			"english": "wolf",
+			"isGuessed": false
+		},
+		{
+			"id": "45",
+			"russian": "медведь",
+			"english": "bear",
+			"isGuessed": false
+		},
+		{
+			"id": "46",
+			"russian": "лиса",
+			"english": "fox",
+			"isGuessed": false
+		},
+		{
+			"id": "47",
+			"russian": "олень",
+			"english": "deer",
+			"isGuessed": false
+		},
+		{
+			"id": "48",
+			"russian": "тигр",
+			"english": "tiger",
+			"isGuessed": false
+		},
+		{
+			"id": "49",
+			"russian": "лев",
+			"english": "lion",
+			"isGuessed": false
+		},
+		{
+			"id": "50",
+			"russian": "слон",
+			"english": "elephant",
+			"isGuessed": false
+		},
+		{
+			"id": "51",
+			"russian": "обезьяна",
+			"english": "monkey",
+			"isGuessed": false
+		},
+		{
+			"id": "52",
+			"russian": "жираф",
+			"english": "giraffe",
+			"isGuessed": false
+		},
+		{
+			"id": "53",
+			"russian": "зебра",
+			"english": "zebra",
+			"isGuessed": false
+		},
+		{
+			"id": "54",
+			"russian": "крокодил",
+			"english": "crocodile",
+			"isGuessed": false
+		},
+		{
+			"id": "55",
+			"russian": "змея",
+			"english": "snake",
+			"isGuessed": false
+		},
+		{
+			"id": "56",
+			"russian": "лягушка",
+			"english": "frog",
+			"isGuessed": false
+		},
+		{
+			"id": "57",
+			"russian": "бабочка",
+			"english": "butterfly",
+			"isGuessed": false
+		},
+		{
+			"id": "58",
+			"russian": "пчела",
+			"english": "bee",
+			"isGuessed": false
+		},
+		{
+			"id": "59",
+			"russian": "муравей",
+			"english": "ant",
+			"isGuessed": false
+		},
+		{
+			"id": "60",
+			"russian": "паук",
+			"english": "spider",
+			"isGuessed": false
+		},
+		{
+			"id": "61",
+			"russian": "муха",
+			"english": "fly",
+			"isGuessed": false
+		},
+		{
+			"id": "62",
+			"russian": "комар",
+			"english": "mosquito",
+			"isGuessed": false
+		},
+		{
+			"id": "63",
+			"russian": "овощ",
+			"english": "vegetable",
+			"isGuessed": false
+		},
+		{
+			"id": "64",
+			"russian": "фрукт",
+			"english": "fruit",
+			"isGuessed": false
+		},
+		{
+			"id": "65",
+			"russian": "помидор",
+			"english": "tomato",
+			"isGuessed": false
+		},
+		{
+			"id": "66",
+			"russian": "огурец",
+			"english": "cucumber",
+			"isGuessed": false
+		},
+		{
+			"id": "67",
+			"russian": "морковь",
+			"english": "carrot",
+			"isGuessed": false
+		},
+		{
+			"id": "68",
+			"russian": "картофель",
+			"english": "potato",
+			"isGuessed": false
+		},
+		{
+			"id": "69",
+			"russian": "лук",
+			"english": "onion",
+			"isGuessed": false
+		},
+		{
+			"id": "70",
+			"russian": "чеснок",
+			"english": "garlic",
+			"isGuessed": false
+		},
+		{
+			"id": "71",
+			"russian": "перец",
+			"english": "pepper",
+			"isGuessed": false
+		},
+		{
+			"id": "72",
+			"russian": "капуста",
+			"english": "cabbage",
+			"isGuessed": false
+		},
+		{
+			"id": "73",
+			"russian": "салат",
+			"english": "lettuce",
+			"isGuessed": false
+		},
+		{
+			"id": "74",
+			"russian": "шпинат",
+			"english": "spinach",
+			"isGuessed": false
+		},
+		{
+			"id": "75",
+			"russian": "брокколи",
+			"english": "broccoli",
+			"isGuessed": false
+		},
+		{
+			"id": "76",
+			"russian": "кукуруза",
+			"english": "corn",
+			"isGuessed": false
+		},
+		{
+			"id": "77",
+			"russian": "горох",
+			"english": "pea",
+			"isGuessed": false
+		},
+		{
+			"id": "78",
+			"russian": "фасоль",
+			"english": "bean",
+			"isGuessed": false
+		},
+		{
+			"id": "79",
+			"russian": "рис",
+			"english": "rice",
+			"isGuessed": false
+		},
+		{
+			"id": "80",
+			"russian": "пшеница",
+			"english": "wheat",
+			"isGuessed": false
+		},
+		{
+			"id": "81",
+			"russian": "овес",
+			"english": "oats",
+			"isGuessed": false
+		},
+		{
+			"id": "82",
+			"russian": "ячмень",
+			"english": "barley",
+			"isGuessed": false
+		},
+		{
+			"id": "83",
+			"russian": "молоко",
+			"english": "milk",
+			"isGuessed": false
+		},
+		{
+			"id": "84",
+			"russian": "сыр",
+			"english": "cheese",
+			"isGuessed": false
+		},
+		{
+			"id": "85",
+			"russian": "масло",
+			"english": "butter",
+			"isGuessed": false
+		},
+		{
+			"id": "86",
+			"russian": "яйцо",
+			"english": "egg",
+			"isGuessed": false
+		},
+		{
+			"id": "87",
+			"russian": "мясо",
+			"english": "meat",
+			"isGuessed": false
+		},
+		{
+			"id": "88",
+			"russian": "говядина",
+			"english": "beef",
+			"isGuessed": false
+		},
+		{
+			"id": "89",
+			"russian": "свинина",
+			"english": "pork",
+			"isGuessed": false
+		},
+		{
+			"id": "90",
+			"russian": "суп",
+			"english": "soup",
+			"isGuessed": false
+		},
+		{
+			"id": "91",
+			"russian": "торт",
+			"english": "cake",
+			"isGuessed": false
+		},
+		{
+			"id": "92",
+			"russian": "печенье",
+			"english": "cookie",
+			"isGuessed": false
+		},
+		{
+			"id": "93",
+			"russian": "конфета",
+			"english": "candy",
+			"isGuessed": false
+		},
+		{
+			"id": "94",
+			"russian": "шоколад",
+			"english": "chocolate",
+			"isGuessed": false
+		},
+		{
+			"id": "95",
+			"russian": "мороженое",
+			"english": "ice cream",
+			"isGuessed": false
+		},
+		{
+			"id": "96",
+			"russian": "чай",
+			"english": "tea",
+			"isGuessed": false
+		},
+		{
+			"id": "97",
+			"russian": "кофе",
+			"english": "coffee",
+			"isGuessed": false
+		},
+		{
+			"id": "98",
+			"russian": "сок",
+			"english": "juice",
+			"isGuessed": false
+		},
+		{
+			"id": "99",
+			"russian": "вино",
+			"english": "wine",
+			"isGuessed": false
+		},
+		{
+			"id": "100",
+			"russian": "пиво",
+			"english": "beer",
+			"isGuessed": false
+		},
+		{
+			"id": "101",
+			"russian": "соль",
+			"english": "salt",
+			"isGuessed": false
+		},
+		{
+			"id": "102",
+			"russian": "сахар",
+			"english": "sugar",
+			"isGuessed": false
+		},
+		{
+			"id": "103",
+			"russian": "мед",
+			"english": "honey",
+			"isGuessed": false
+		},
+		{
+			"id": "104",
+			"russian": "мука",
+			"english": "flour",
+			"isGuessed": false
+		},
+		{
+			"id": "105",
+			"russian": "макароны",
+			"english": "pasta",
+			"isGuessed": false
+		},
+		{
+			"id": "106",
+			"russian": "булка",
+			"english": "bun",
+			"isGuessed": false
+		},
+		{
+			"id": "107",
+			"russian": "пирог",
+			"english": "pie",
+			"isGuessed": false
+		},
+		{
+			"id": "108",
+			"russian": "блин",
+			"english": "pancake",
+			"isGuessed": false
+		},
+		{
+			"id": "109",
+			"russian": "омлет",
+			"english": "omelet",
+			"isGuessed": false
+		},
+		{
+			"id": "110",
+			"russian": "сэндвич",
+			"english": "sandwich",
+			"isGuessed": false
+		},
+		{
+			"id": "111",
+			"russian": "гамбургер",
+			"english": "hamburger",
+			"isGuessed": false
+		},
+		{
+			"id": "112",
+			"russian": "пицца",
+			"english": "pizza",
+			"isGuessed": false
+		},
+		{
+			"id": "113",
+			"russian": "суши",
+			"english": "sushi",
+			"isGuessed": false
+		},
+		{
+			"id": "114",
+			"russian": "борщ",
+			"english": "borscht",
+			"isGuessed": false
+		},
+		{
+			"id": "115",
+			"russian": "щи",
+			"english": "cabbage soup",
+			"isGuessed": false
+		},
+		{
+			"id": "116",
+			"russian": "каша",
+			"english": "porridge",
+			"isGuessed": false
+		},
+		{
+			"id": "117",
+			"russian": "овсянка",
+			"english": "oatmeal",
+			"isGuessed": false
+		},
+		{
+			"id": "118",
+			"russian": "мюсли",
+			"english": "muesli",
+			"isGuessed": false
+		},
+		{
+			"id": "119",
+			"russian": "йогурт",
+			"english": "yogurt",
+			"isGuessed": false
+		},
+		{
+			"id": "120",
+			"russian": "творог",
+			"english": "cottage cheese",
+			"isGuessed": false
+		},
+		{
+			"id": "121",
+			"russian": "сметана",
+			"english": "sour cream",
+			"isGuessed": false
+		},
+		{
+			"id": "122",
+			"russian": "майонез",
+			"english": "mayonnaise",
+			"isGuessed": false
+		},
+		{
+			"id": "123",
+			"russian": "кетчуп",
+			"english": "ketchup",
+			"isGuessed": false
+		},
+		{
+			"id": "124",
+			"russian": "горчица",
+			"english": "mustard",
+			"isGuessed": false
+		},
+		{
+			"id": "125",
+			"russian": "уксус",
+			"english": "vinegar",
+			"isGuessed": false
+		},
+		{
+			"id": "126",
+			"russian": "растительное масло",
+			"english": "vegetable oil",
+			"isGuessed": false
+		},
+		{
+			"id": "127",
+			"russian": "оливковое масло",
+			"english": "olive oil",
+			"isGuessed": false
+		},
+		{
+			"id": "128",
+			"russian": "подсолнечное масло",
+			"english": "sunflower oil",
+			"isGuessed": false
+		},
+		{
+			"id": "129",
+			"russian": "специя",
+			"english": "spice",
+			"isGuessed": false
+		},
+		{
+			"id": "130",
+			"russian": "травы",
+			"english": "herbs",
+			"isGuessed": false
+		},
+		{
+			"id": "131",
+			"russian": "базилик",
+			"english": "basil",
+			"isGuessed": false
+		},
+		{
+			"id": "132",
+			"russian": "петрушка",
+			"english": "parsley",
+			"isGuessed": false
+		},
+		{
+			"id": "133",
+			"russian": "укроп",
+			"english": "dill",
+			"isGuessed": false
+		},
+		{
+			"id": "134",
+			"russian": "кинза",
+			"english": "cilantro",
+			"isGuessed": false
+		},
+		{
+			"id": "135",
+			"russian": "мята",
+			"english": "mint",
+			"isGuessed": false
+		},
+		{
+			"id": "136",
+			"russian": "розмарин",
+			"english": "rosemary",
+			"isGuessed": false
+		},
+		{
+			"id": "137",
+			"russian": "тимьян",
+			"english": "thyme",
+			"isGuessed": false
+		},
+		{
+			"id": "138",
+			"russian": "орегано",
+			"english": "oregano",
+			"isGuessed": false
+		},
+		{
+			"id": "139",
+			"russian": "лавровый лист",
+			"english": "bay leaf",
+			"isGuessed": false
+		},
+		{
+			"id": "140",
+			"russian": "корица",
+			"english": "cinnamon",
+			"isGuessed": false
+		},
+		{
+			"id": "141",
+			"russian": "ваниль",
+			"english": "vanilla",
+			"isGuessed": false
+		},
+		{
+			"id": "142",
+			"russian": "имбирь",
+			"english": "ginger",
+			"isGuessed": false
+		},
+		{
+			"id": "143",
+			"russian": "куркума",
+			"english": "turmeric",
+			"isGuessed": false
+		},
+		{
+			"id": "144",
+			"russian": "паприка",
+			"english": "paprika",
+			"isGuessed": false
+		},
+		{
+			"id": "145",
+			"russian": "тмин",
+			"english": "cumin",
+			"isGuessed": false
+		},
+		{
+			"id": "146",
+			"russian": "кориандр",
+			"english": "coriander",
+			"isGuessed": false
+		},
+		{
+			"id": "147",
+			"russian": "мускатный орех",
+			"english": "nutmeg",
+			"isGuessed": false
+		},
+		{
+			"id": "148",
+			"russian": "гвоздика",
+			"english": "clove",
+			"isGuessed": false
+		},
+		{
+			"id": "149",
+			"russian": "перец чили",
+			"english": "chili pepper",
+			"isGuessed": false
+		},
+		{
+			"id": "150",
+			"russian": "человек",
+			"english": "person",
+			"isGuessed": false
+		},
+		{
+			"id": "151",
+			"russian": "мужчина",
+			"english": "man",
+			"isGuessed": false
+		},
+		{
+			"id": "152",
+			"russian": "женщина",
+			"english": "woman",
+			"isGuessed": false
+		},
+		{
+			"id": "153",
+			"russian": "ребенок",
+			"english": "child",
+			"isGuessed": false
+		},
+		{
+			"id": "154",
+			"russian": "мальчик",
+			"english": "boy",
+			"isGuessed": false
+		},
+		{
+			"id": "155",
+			"russian": "девочка",
+			"english": "girl",
+			"isGuessed": false
+		},
+		{
+			"id": "156",
+			"russian": "друг",
+			"english": "friend",
+			"isGuessed": false
+		},
+		{
+			"id": "157",
+			"russian": "семья",
+			"english": "family",
+			"isGuessed": false
+		},
+		{
+			"id": "158",
+			"russian": "брат",
+			"english": "brother",
+			"isGuessed": false
+		},
+		{
+			"id": "159",
+			"russian": "сестра",
+			"english": "sister",
+			"isGuessed": false
+		},
+		{
+			"id": "160",
+			"russian": "сын",
+			"english": "son",
+			"isGuessed": false
+		},
+		{
+			"id": "161",
+			"russian": "дочь",
+			"english": "daughter",
+			"isGuessed": false
+		},
+		{
+			"id": "162",
+			"russian": "дедушка",
+			"english": "grandfather",
+			"isGuessed": false
+		},
+		{
+			"id": "163",
+			"russian": "бабушка",
+			"english": "grandmother",
+			"isGuessed": false
+		},
+		{
+			"id": "164",
+			"russian": "дядя",
+			"english": "uncle",
+			"isGuessed": false
+		},
+		{
+			"id": "165",
+			"russian": "тётя",
+			"english": "aunt",
+			"isGuessed": false
+		},
+		{
+			"id": "166",
+			"russian": "двоюродный брат",
+			"english": "cousin",
+			"isGuessed": false
+		},
+		{
+			"id": "167",
+			"russian": "племянник",
+			"english": "nephew",
+			"isGuessed": false
+		},
+		{
+			"id": "168",
+			"russian": "племянница",
+			"english": "niece",
+			"isGuessed": false
+		},
+		{
+			"id": "169",
+			"russian": "муж",
+			"english": "husband",
+			"isGuessed": false
+		},
+		{
+			"id": "170",
+			"russian": "жена",
+			"english": "wife",
+			"isGuessed": false
+		},
+		{
+			"id": "171",
+			"russian": "родители",
+			"english": "parents",
+			"isGuessed": false
+		},
+		{
+			"id": "172",
+			"russian": "отец",
+			"english": "father",
+			"isGuessed": false
+		},
+		{
+			"id": "173",
+			"russian": "мать",
+			"english": "mother",
+			"isGuessed": false
+		},
+		{
+			"id": "174",
+			"russian": "рука",
+			"english": "hand",
+			"isGuessed": false
+		},
+		{
+			"id": "175",
+			"russian": "нога",
+			"english": "leg",
+			"isGuessed": false
+		},
+		{
+			"id": "176",
+			"russian": "голова",
+			"english": "head",
+			"isGuessed": false
+		},
+		{
+			"id": "177",
+			"russian": "лицо",
+			"english": "face",
+			"isGuessed": false
+		},
+		{
+			"id": "178",
+			"russian": "глаз",
+			"english": "eye",
+			"isGuessed": false
+		},
+		{
+			"id": "179",
+			"russian": "ухо",
+			"english": "ear",
+			"isGuessed": false
+		},
+		{
+			"id": "180",
+			"russian": "нос",
+			"english": "nose",
+			"isGuessed": false
+		},
+		{
+			"id": "181",
+			"russian": "рот",
+			"english": "mouth",
+			"isGuessed": false
+		},
+		{
+			"id": "182",
+			"russian": "зуб",
+			"english": "tooth",
+			"isGuessed": false
+		},
+		{
+			"id": "183",
+			"russian": "волосы",
+			"english": "hair",
+			"isGuessed": false
+		},
+		{
+			"id": "184",
+			"russian": "шея",
+			"english": "neck",
+			"isGuessed": false
+		},
+		{
+			"id": "185",
+			"russian": "плечо",
+			"english": "shoulder",
+			"isGuessed": false
+		},
+		{
+			"id": "186",
+			"russian": "грудь",
+			"english": "chest",
+			"isGuessed": false
+		},
+		{
+			"id": "187",
+			"russian": "спина",
+			"english": "back",
+			"isGuessed": false
+		},
+		{
+			"id": "188",
+			"russian": "живот",
+			"english": "stomach",
+			"isGuessed": false
+		},
+		{
+			"id": "189",
+			"russian": "палец",
+			"english": "finger",
+			"isGuessed": false
+		},
+		{
+			"id": "190",
+			"russian": "колено",
+			"english": "knee",
+			"isGuessed": false
+		},
+		{
+			"id": "191",
+			"russian": "стопа",
+			"english": "foot",
+			"isGuessed": false
+		},
+		{
+			"id": "192",
+			"russian": "кожа",
+			"english": "skin",
+			"isGuessed": false
+		},
+		{
+			"id": "193",
+			"russian": "кость",
+			"english": "bone",
+			"isGuessed": false
+		},
+		{
+			"id": "194",
+			"russian": "кровь",
+			"english": "blood",
+			"isGuessed": false
+		},
+		{
+			"id": "195",
+			"russian": "сердце",
+			"english": "heart",
+			"isGuessed": false
+		},
+		{
+			"id": "196",
+			"russian": "мозг",
+			"english": "brain",
+			"isGuessed": false
+		},
+		{
+			"id": "197",
+			"russian": "легкое",
+			"english": "lung",
+			"isGuessed": false
+		},
+		{
+			"id": "198",
+			"russian": "печень",
+			"english": "liver",
+			"isGuessed": false
+		},
+		{
+			"id": "199",
+			"russian": "почка",
+			"english": "kidney",
+			"isGuessed": false
+		},
+		{
+			"id": "200",
+			"russian": "желудок",
+			"english": "stomach",
+			"isGuessed": false
+		},
+		{
+			"id": "201",
+			"russian": "кишечник",
+			"english": "intestine",
+			"isGuessed": false
+		},
+		{
+			"id": "202",
+			"russian": "мышца",
+			"english": "muscle",
+			"isGuessed": false
+		},
+		{
+			"id": "203",
+			"russian": "нерв",
+			"english": "nerve",
+			"isGuessed": false
+		},
+		{
+			"id": "204",
+			"russian": "одежда",
+			"english": "clothing",
+			"isGuessed": false
+		},
+		{
+			"id": "205",
+			"russian": "рубашка",
+			"english": "shirt",
+			"isGuessed": false
+		},
+		{
+			"id": "206",
+			"russian": "брюки",
+			"english": "pants",
+			"isGuessed": false
+		},
+		{
+			"id": "207",
+			"russian": "платье",
+			"english": "dress",
+			"isGuessed": false
+		},
+		{
+			"id": "208",
+			"russian": "юбка",
+			"english": "skirt",
+			"isGuessed": false
+		},
+		{
+			"id": "209",
+			"russian": "куртка",
+			"english": "jacket",
+			"isGuessed": false
+		},
+		{
+			"id": "210",
+			"russian": "пальто",
+			"english": "coat",
+			"isGuessed": false
+		},
+		{
+			"id": "211",
+			"russian": "шляпа",
+			"english": "hat",
+			"isGuessed": false
+		},
+		{
+			"id": "212",
+			"russian": "обувь",
+			"english": "shoes",
+			"isGuessed": false
+		},
+		{
+			"id": "213",
+			"russian": "ботинки",
+			"english": "boots",
+			"isGuessed": false
+		},
+		{
+			"id": "214",
+			"russian": "кроссовки",
+			"english": "sneakers",
+			"isGuessed": false
+		},
+		{
+			"id": "215",
+			"russian": "носки",
+			"english": "socks",
+			"isGuessed": false
+		},
+		{
+			"id": "216",
+			"russian": "перчатки",
+			"english": "gloves",
+			"isGuessed": false
+		},
+		{
+			"id": "217",
+			"russian": "шарф",
+			"english": "scarf",
+			"isGuessed": false
+		},
+		{
+			"id": "218",
+			"russian": "сумка",
+			"english": "bag",
+			"isGuessed": false
+		},
+		{
+			"id": "219",
+			"russian": "кошелек",
+			"english": "wallet",
+			"isGuessed": false
+		},
+		{
+			"id": "220",
+			"russian": "ключи",
+			"english": "keys",
+			"isGuessed": false
+		},
+		{
+			"id": "221",
+			"russian": "телефон",
+			"english": "phone",
+			"isGuessed": false
+		},
+		{
+			"id": "222",
+			"russian": "компьютер",
+			"english": "computer",
+			"isGuessed": false
+		},
+		{
+			"id": "223",
+			"russian": "ноутбук",
+			"english": "laptop",
+			"isGuessed": false
+		},
+		{
+			"id": "224",
+			"russian": "планшет",
+			"english": "tablet",
+			"isGuessed": false
+		},
+		{
+			"id": "225",
+			"russian": "телевизор",
+			"english": "TV",
+			"isGuessed": false
+		},
+		{
+			"id": "226",
+			"russian": "радио",
+			"english": "radio",
+			"isGuessed": false
+		},
+		{
+			"id": "227",
+			"russian": "камера",
+			"english": "camera",
+			"isGuessed": false
+		},
+		{
+			"id": "228",
+			"russian": "часы",
+			"english": "watch",
+			"isGuessed": false
+		},
+		{
+			"id": "229",
+			"russian": "очки",
+			"english": "glasses",
+			"isGuessed": false
+		},
+		{
+			"id": "230",
+			"russian": "зонт",
+			"english": "umbrella",
+			"isGuessed": false
+		},
+		{
+			"id": "231",
+			"russian": "кольцо",
+			"english": "ring",
+			"isGuessed": false
+		},
+		{
+			"id": "232",
+			"russian": "серьги",
+			"english": "earrings",
+			"isGuessed": false
+		},
+		{
+			"id": "233",
+			"russian": "браслет",
+			"english": "bracelet",
+			"isGuessed": false
+		},
+		{
+			"id": "234",
+			"russian": "ожерелье",
+			"english": "necklace",
+			"isGuessed": false
+		},
+		{
+			"id": "235",
+			"russian": "часы",
+			"english": "clock",
+			"isGuessed": false
+		},
+		{
+			"id": "236",
+			"russian": "календарь",
+			"english": "calendar",
+			"isGuessed": false
+		},
+		{
+			"id": "237",
+			"russian": "карта",
+			"english": "map",
+			"isGuessed": false
+		},
+		{
+			"id": "238",
+			"russian": "компас",
+			"english": "compass",
+			"isGuessed": false
+		},
+		{
+			"id": "239",
+			"russian": "фонарик",
+			"english": "flashlight",
+			"isGuessed": false
+		},
+		{
+			"id": "240",
+			"russian": "батарейка",
+			"english": "battery",
+			"isGuessed": false
+		},
+		{
+			"id": "241",
+			"russian": "зарядка",
+			"english": "charger",
+			"isGuessed": false
+		},
+		{
+			"id": "242",
+			"russian": "наушники",
+			"english": "headphones",
+			"isGuessed": false
+		},
+		{
+			"id": "243",
+			"russian": "динамик",
+			"english": "speaker",
+			"isGuessed": false
+		},
+		{
+			"id": "244",
+			"russian": "микрофон",
+			"english": "microphone",
+			"isGuessed": false
+		},
+		{
+			"id": "245",
+			"russian": "клавиатура",
+			"english": "keyboard",
+			"isGuessed": false
+		},
+		{
+			"id": "246",
+			"russian": "монитор",
+			"english": "monitor",
+			"isGuessed": false
+		},
+		{
+			"id": "247",
+			"russian": "принтер",
+			"english": "printer",
+			"isGuessed": false
+		},
+		{
+			"id": "248",
+			"russian": "сканер",
+			"english": "scanner",
+			"isGuessed": false
+		},
+		{
+			"id": "249",
+			"russian": "флешка",
+			"english": "USB drive",
+			"isGuessed": false
+		},
+		{
+			"id": "250",
+			"russian": "диск",
+			"english": "disk",
+			"isGuessed": false
+		},
+		{
+			"id": "251",
+			"russian": "кабель",
+			"english": "cable",
+			"isGuessed": false
+		},
+		{
+			"id": "252",
+			"russian": "розетка",
+			"english": "socket",
+			"isGuessed": false
+		},
+		{
+			"id": "253",
+			"russian": "выключатель",
+			"english": "switch",
+			"isGuessed": false
+		},
+		{
+			"id": "254",
+			"russian": "лампа",
+			"english": "lamp",
+			"isGuessed": false
+		},
+		{
+			"id": "255",
+			"russian": "свеча",
+			"english": "candle",
+			"isGuessed": false
+		},
+		{
+			"id": "256",
+			"russian": "зажигалка",
+			"english": "lighter",
+			"isGuessed": false
+		},
+		{
+			"id": "257",
+			"russian": "спички",
+			"english": "matches",
+			"isGuessed": false
+		},
+		{
+			"id": "258",
+			"russian": "нож",
+			"english": "knife",
+			"isGuessed": false
+		},
+		{
+			"id": "259",
+			"russian": "вилка",
+			"english": "fork",
+			"isGuessed": false
+		},
+		{
+			"id": "260",
+			"russian": "ложка",
+			"english": "spoon",
+			"isGuessed": false
+		},
+		{
+			"id": "261",
+			"russian": "тарелка",
+			"english": "plate",
+			"isGuessed": false
+		},
+		{
+			"id": "262",
+			"russian": "чашка",
+			"english": "cup",
+			"isGuessed": false
+		},
+		{
+			"id": "263",
+			"russian": "стакан",
+			"english": "glass",
+			"isGuessed": false
+		},
+		{
+			"id": "264",
+			"russian": "миска",
+			"english": "bowl",
+			"isGuessed": false
+		},
+		{
+			"id": "265",
+			"russian": "кастрюля",
+			"english": "pot",
+			"isGuessed": false
+		},
+		{
+			"id": "266",
+			"russian": "сковорода",
+			"english": "pan",
+			"isGuessed": false
+		},
+		{
+			"id": "267",
+			"russian": "духовка",
+			"english": "oven",
+			"isGuessed": false
+		},
+		{
+			"id": "268",
+			"russian": "микроволновка",
+			"english": "microwave",
+			"isGuessed": false
+		},
+		{
+			"id": "269",
+			"russian": "холодильник",
+			"english": "refrigerator",
+			"isGuessed": false
+		},
+		{
+			"id": "270",
+			"russian": "морозильник",
+			"english": "freezer",
+			"isGuessed": false
+		},
+		{
+			"id": "271",
+			"russian": "посудомойка",
+			"english": "dishwasher",
+			"isGuessed": false
+		},
+		{
+			"id": "272",
+			"russian": "стиральная машина",
+			"english": "washing machine",
+			"isGuessed": false
+		},
+		{
+			"id": "273",
+			"russian": "сушилка",
+			"english": "dryer",
+			"isGuessed": false
+		},
+		{
+			"id": "274",
+			"russian": "пылесос",
+			"english": "vacuum cleaner",
+			"isGuessed": false
+		},
+		{
+			"id": "275",
+			"russian": "утюг",
+			"english": "iron",
+			"isGuessed": false
+		},
+		{
+			"id": "276",
+			"russian": "фен",
+			"english": "hair dryer",
+			"isGuessed": false
+		},
+		{
+			"id": "277",
+			"russian": "щетка",
+			"english": "brush",
+			"isGuessed": false
+		},
+		{
+			"id": "278",
+			"russian": "расческа",
+			"english": "comb",
+			"isGuessed": false
+		},
+		{
+			"id": "279",
+			"russian": "зубная щетка",
+			"english": "toothbrush",
+			"isGuessed": false
+		},
+		{
+			"id": "280",
+			"russian": "зубная паста",
+			"english": "toothpaste",
+			"isGuessed": false
+		},
+		{
+			"id": "281",
+			"russian": "мыло",
+			"english": "soap",
+			"isGuessed": false
+		},
+		{
+			"id": "282",
+			"russian": "шампунь",
+			"english": "shampoo",
+			"isGuessed": false
+		},
+		{
+			"id": "283",
+			"russian": "кондиционер",
+			"english": "conditioner",
+			"isGuessed": false
+		},
+		{
+			"id": "284",
+			"russian": "полотенце",
+			"english": "towel",
+			"isGuessed": false
+		},
+		{
+			"id": "285",
+			"russian": "салфетка",
+			"english": "napkin",
+			"isGuessed": false
+		},
+		{
+			"id": "286",
+			"russian": "туалетная бумага",
+			"english": "toilet paper",
+			"isGuessed": false
+		},
+		{
+			"id": "287",
+			"russian": "зеркало",
+			"english": "mirror",
+			"isGuessed": false
+		},
+		{
+			"id": "288",
+			"russian": "ванна",
+			"english": "bathtub",
+			"isGuessed": false
+		},
+		{
+			"id": "289",
+			"russian": "душ",
+			"english": "shower",
+			"isGuessed": false
+		},
+		{
+			"id": "290",
+			"russian": "унитаз",
+			"english": "toilet",
+			"isGuessed": false
+		},
+		{
+			"id": "291",
+			"russian": "раковина",
+			"english": "sink",
+			"isGuessed": false
+		},
+		{
+			"id": "292",
+			"russian": "кран",
+			"english": "faucet",
+			"isGuessed": false
+		},
+		{
+			"id": "293",
+			"russian": "мыльница",
+			"english": "soap dish",
+			"isGuessed": false
+		},
+		{
+			"id": "294",
+			"russian": "полка",
+			"english": "shelf",
+			"isGuessed": false
+		},
+		{
+			"id": "295",
+			"russian": "шкаф",
+			"english": "wardrobe",
+			"isGuessed": false
+		},
+		{
+			"id": "296",
+			"russian": "комод",
+			"english": "dresser",
+			"isGuessed": false
+		},
+		{
+			"id": "297",
+			"russian": "кровать",
+			"english": "bed",
+			"isGuessed": false
+		},
+		{
+			"id": "298",
+			"russian": "подушка",
+			"english": "pillow",
+			"isGuessed": false
+		},
+		{
+			"id": "299",
+			"russian": "одеяло",
+			"english": "blanket",
+			"isGuessed": false
+		},
+		{
+			"id": "300",
+			"russian": "простыня",
+			"english": "sheet",
+			"isGuessed": false
+		},
+		{
+			"id": "301",
+			"russian": "матрас",
+			"english": "mattress",
+			"isGuessed": false
+		},
+		{
+			"id": "302",
+			"russian": "диван",
+			"english": "sofa",
+			"isGuessed": false
+		},
+		{
+			"id": "303",
+			"russian": "кресло",
+			"english": "armchair",
+			"isGuessed": false
+		},
+		{
+			"id": "304",
+			"russian": "подушка",
+			"english": "cushion",
+			"isGuessed": false
+		},
+		{
+			"id": "305",
+			"russian": "ковер",
+			"english": "carpet",
+			"isGuessed": false
+		},
+		{
+			"id": "306",
+			"russian": "занавеска",
+			"english": "curtain",
+			"isGuessed": false
+		},
+		{
+			"id": "307",
+			"russian": "жалюзи",
+			"english": "blinds",
+			"isGuessed": false
+		},
+		{
+			"id": "308",
+			"russian": "картина",
+			"english": "picture",
+			"isGuessed": false
+		},
+		{
+			"id": "309",
+			"russian": "фото",
+			"english": "photo",
+			"isGuessed": false
+		},
+		{
+			"id": "310",
+			"russian": "рамка",
+			"english": "frame",
+			"isGuessed": false
+		},
+		{
+			"id": "311",
+			"russian": "ваза",
+			"english": "vase",
+			"isGuessed": false
+		},
+		{
+			"id": "312",
+			"russian": "цветы",
+			"english": "flowers",
+			"isGuessed": false
+		},
+		{
+			"id": "313",
+			"russian": "растение",
+			"english": "plant",
+			"isGuessed": false
+		},
+		{
+			"id": "314",
+			"russian": "горшок",
+			"english": "pot",
+			"isGuessed": false
+		},
+		{
+			"id": "315",
+			"russian": "земля",
+			"english": "soil",
+			"isGuessed": false
+		},
+		{
+			"id": "316",
+			"russian": "удобрение",
+			"english": "fertilizer",
+			"isGuessed": false
+		},
+		{
+			"id": "317",
+			"russian": "лопата",
+			"english": "shovel",
+			"isGuessed": false
+		},
+		{
+			"id": "318",
+			"russian": "грабли",
+			"english": "rake",
+			"isGuessed": false
+		},
+		{
+			"id": "319",
+			"russian": "ножницы",
+			"english": "scissors",
+			"isGuessed": false
+		},
+		{
+			"id": "320",
+			"russian": "молоток",
+			"english": "hammer",
+			"isGuessed": false
+		},
+		{
+			"id": "321",
+			"russian": "отвертка",
+			"english": "screwdriver",
+			"isGuessed": false
+		},
+		{
+			"id": "322",
+			"russian": "гаечный ключ",
+			"english": "wrench",
+			"isGuessed": false
+		},
+		{
+			"id": "323",
+			"russian": "пила",
+			"english": "saw",
+			"isGuessed": false
+		},
+		{
+			"id": "324",
+			"russian": "дрель",
+			"english": "drill",
+			"isGuessed": false
+		},
+		{
+			"id": "325",
+			"russian": "гвоздь",
+			"english": "nail",
+			"isGuessed": false
+		},
+		{
+			"id": "326",
+			"russian": "шуруп",
+			"english": "screw",
+			"isGuessed": false
+		},
+		{
+			"id": "327",
+			"russian": "болт",
+			"english": "bolt",
+			"isGuessed": false
+		},
+		{
+			"id": "328",
+			"russian": "гайка",
+			"english": "nut",
+			"isGuessed": false
+		},
+		{
+			"id": "329",
+			"russian": "клей",
+			"english": "glue",
+			"isGuessed": false
+		},
+		{
+			"id": "330",
+			"russian": "скотч",
+			"english": "tape",
+			"isGuessed": false
+		},
+		{
+			"id": "331",
+			"russian": "веревка",
+			"english": "rope",
+			"isGuessed": false
+		},
+		{
+			"id": "332",
+			"russian": "шнур",
+			"english": "cord",
+			"isGuessed": false
+		},
+		{
+			"id": "333",
+			"russian": "проволока",
+			"english": "wire",
+			"isGuessed": false
+		},
+		{
+			"id": "334",
+			"russian": "резина",
+			"english": "rubber",
+			"isGuessed": false
+		},
+		{
+			"id": "335",
+			"russian": "пластик",
+			"english": "plastic",
+			"isGuessed": false
+		},
+		{
+			"id": "336",
+			"russian": "металл",
+			"english": "metal",
+			"isGuessed": false
+		},
+		{
+			"id": "337",
+			"russian": "дерево",
+			"english": "wood",
+			"isGuessed": false
+		},
+		{
+			"id": "338",
+			"russian": "стекло",
+			"english": "glass",
+			"isGuessed": false
+		},
+		{
+			"id": "339",
+			"russian": "камень",
+			"english": "stone",
+			"isGuessed": false
+		},
+		{
+			"id": "340",
+			"russian": "кирпич",
+			"english": "brick",
+			"isGuessed": false
+		},
+		{
+			"id": "341",
+			"russian": "цемент",
+			"english": "cement",
+			"isGuessed": false
+		},
+		{
+			"id": "342",
+			"russian": "песок",
+			"english": "sand",
+			"isGuessed": false
+		},
+		{
+			"id": "343",
+			"russian": "глина",
+			"english": "clay",
+			"isGuessed": false
+		},
+		{
+			"id": "344",
+			"russian": "грязь",
+			"english": "mud",
+			"isGuessed": false
+		},
+		{
+			"id": "345",
+			"russian": "пыль",
+			"english": "dust",
+			"isGuessed": false
+		},
+		{
+			"id": "346",
+			"russian": "грязь",
+			"english": "dirt",
+			"isGuessed": false
+		},
+		{
+			"id": "347",
+			"russian": "мусор",
+			"english": "garbage",
+			"isGuessed": false
+		},
+		{
+			"id": "348",
+			"russian": "отходы",
+			"english": "waste",
+			"isGuessed": false
+		},
+		{
+			"id": "349",
+			"russian": "мусорное ведро",
+			"english": "trash can",
+			"isGuessed": false
+		},
+		{
+			"id": "350",
+			"russian": "мешок",
+			"english": "bag",
+			"isGuessed": false
+		},
+		{
+			"id": "351",
+			"russian": "коробка",
+			"english": "box",
+			"isGuessed": false
+		},
+		{
+			"id": "352",
+			"russian": "ящик",
+			"english": "crate",
+			"isGuessed": false
+		},
+		{
+			"id": "353",
+			"russian": "контейнер",
+			"english": "container",
+			"isGuessed": false
+		},
+		{
+			"id": "354",
+			"russian": "бутылка",
+			"english": "bottle",
+			"isGuessed": false
+		},
+		{
+			"id": "355",
+			"russian": "банка",
+			"english": "jar",
+			"isGuessed": false
+		},
+		{
+			"id": "356",
+			"russian": "крышка",
+			"english": "lid",
+			"isGuessed": false
+		},
+		{
+			"id": "357",
+			"russian": "пробка",
+			"english": "cork",
+			"isGuessed": false
+		},
+		{
+			"id": "358",
+			"russian": "этикетка",
+			"english": "label",
+			"isGuessed": false
+		},
+		{
+			"id": "359",
+			"russian": "наклейка",
+			"english": "sticker",
+			"isGuessed": false
+		},
+		{
+			"id": "360",
+			"russian": "лента",
+			"english": "ribbon",
+			"isGuessed": false
+		},
+		{
+			"id": "361",
+			"russian": "нитки",
+			"english": "thread",
+			"isGuessed": false
+		},
+		{
+			"id": "362",
+			"russian": "игла",
+			"english": "needle",
+			"isGuessed": false
+		},
+		{
+			"id": "363",
+			"russian": "булавка",
+			"english": "pin",
+			"isGuessed": false
+		},
+		{
+			"id": "364",
+			"russian": "кнопка",
+			"english": "button",
+			"isGuessed": false
+		},
+		{
+			"id": "365",
+			"russian": "молния",
+			"english": "zipper",
+			"isGuessed": false
+		},
+		{
+			"id": "366",
+			"russian": "пуговица",
+			"english": "button",
+			"isGuessed": false
+		},
+		{
+			"id": "367",
+			"russian": "петля",
+			"english": "loop",
+			"isGuessed": false
+		},
+		{
+			"id": "368",
+			"russian": "карман",
+			"english": "pocket",
+			"isGuessed": false
+		},
+		{
+			"id": "369",
+			"russian": "воротник",
+			"english": "collar",
+			"isGuessed": false
+		},
+		{
+			"id": "370",
+			"russian": "рукав",
+			"english": "sleeve",
+			"isGuessed": false
+		},
+		{
+			"id": "371",
+			"russian": "подол",
+			"english": "hem",
+			"isGuessed": false
+		},
+		{
+			"id": "372",
+			"russian": "шов",
+			"english": "seam",
+			"isGuessed": false
+		},
+		{
+			"id": "373",
+			"russian": "ткань",
+			"english": "fabric",
+			"isGuessed": false
+		},
+		{
+			"id": "374",
+			"russian": "хлопок",
+			"english": "cotton",
+			"isGuessed": false
+		},
+		{
+			"id": "375",
+			"russian": "шелк",
+			"english": "silk",
+			"isGuessed": false
+		},
+		{
+			"id": "376",
+			"russian": "шерсть",
+			"english": "wool",
+			"isGuessed": false
+		},
+		{
+			"id": "377",
+			"russian": "кожа",
+			"english": "leather",
+			"isGuessed": false
+		},
+		{
+			"id": "378",
+			"russian": "мех",
+			"english": "fur",
+			"isGuessed": false
+		},
+		{
+			"id": "379",
+			"russian": "замша",
+			"english": "suede",
+			"isGuessed": false
+		},
+		{
+			"id": "380",
+			"russian": "джинс",
+			"english": "denim",
+			"isGuessed": false
+		},
+		{
+			"id": "381",
+			"russian": "лен",
+			"english": "linen",
+			"isGuessed": false
+		},
+		{
+			"id": "382",
+			"russian": "бархат",
+			"english": "velvet",
+			"isGuessed": false
+		},
+		{
+			"id": "383",
+			"russian": "сатин",
+			"english": "satin",
+			"isGuessed": false
+		},
+		{
+			"id": "384",
+			"russian": "тюль",
+			"english": "tulle",
+			"isGuessed": false
+		},
+		{
+			"id": "385",
+			"russian": "кружево",
+			"english": "lace",
+			"isGuessed": false
+		},
+		{
+			"id": "386",
+			"russian": "резинка",
+			"english": "elastic",
+			"isGuessed": false
+		},
+		{
+			"id": "387",
+			"russian": "липучка",
+			"english": "velcro",
+			"isGuessed": false
+		},
+		{
+			"id": "388",
+			"russian": "застежка",
+			"english": "fastener",
+			"isGuessed": false
+		},
+		{
+			"id": "389",
+			"russian": "пряжка",
+			"english": "buckle",
+			"isGuessed": false
+		},
+		{
+			"id": "390",
+			"russian": "ремень",
+			"english": "belt",
+			"isGuessed": false
+		},
+		{
+			"id": "391",
+			"russian": "галстук",
+			"english": "tie",
+			"isGuessed": false
+		},
+		{
+			"id": "392",
+			"russian": "бабочка",
+			"english": "bow tie",
+			"isGuessed": false
+		},
+		{
+			"id": "393",
+			"russian": "жилет",
+			"english": "vest",
+			"isGuessed": false
+		},
+		{
+			"id": "394",
+			"russian": "свитер",
+			"english": "sweater",
+			"isGuessed": false
+		},
+		{
+			"id": "395",
+			"russian": "джемпер",
+			"english": "jumper",
+			"isGuessed": false
+		},
+		{
+			"id": "396",
+			"russian": "толстовка",
+			"english": "hoodie",
+			"isGuessed": false
+		},
+		{
+			"id": "397",
+			"russian": "футболка",
+			"english": "T-shirt",
+			"isGuessed": false
+		},
+		{
+			"id": "398",
+			"russian": "майка",
+			"english": "tank top",
+			"isGuessed": false
+		},
+		{
+			"id": "399",
+			"russian": "трусы",
+			"english": "underwear",
+			"isGuessed": false
+		},
+		{
+			"id": "400",
+			"russian": "бюстгальтер",
+			"english": "bra",
+			"isGuessed": false
+		},
+		{
+			"id": "401",
+			"russian": "пижама",
+			"english": "pajamas",
+			"isGuessed": false
+		},
+		{
+			"id": "402",
+			"russian": "халат",
+			"english": "robe",
+			"isGuessed": false
+		},
+		{
+			"id": "403",
+			"russian": "тапочки",
+			"english": "slippers",
+			"isGuessed": false
+		},
+		{
+			"id": "404",
+			"russian": "шлепанцы",
+			"english": "flip-flops",
+			"isGuessed": false
+		},
+		{
+			"id": "405",
+			"russian": "сандалии",
+			"english": "sandals",
+			"isGuessed": false
+		},
+		{
+			"id": "406",
+			"russian": "сапоги",
+			"english": "boots",
+			"isGuessed": false
+		},
+		{
+			"id": "407",
+			"russian": "валенки",
+			"english": "felt boots",
+			"isGuessed": false
+		},
+		{
+			"id": "408",
+			"russian": "кеды",
+			"english": "sneakers",
+			"isGuessed": false
+		},
+		{
+			"id": "409",
+			"russian": "туфли",
+			"english": "shoes",
+			"isGuessed": false
+		},
+		{
+			"id": "410",
+			"russian": "босоножки",
+			"english": "sandals",
+			"isGuessed": false
+		},
+		{
+			"id": "411",
+			"russian": "сапожки",
+			"english": "boots",
+			"isGuessed": false
+		},
+		{
+			"id": "412",
+			"russian": "галоши",
+			"english": "galoshes",
+			"isGuessed": false
+		},
+		{
+			"id": "413",
+			"russian": "лыжи",
+			"english": "skis",
+			"isGuessed": false
+		},
+		{
+			"id": "414",
+			"russian": "коньки",
+			"english": "skates",
+			"isGuessed": false
+		},
+		{
+			"id": "415",
+			"russian": "велосипед",
+			"english": "bicycle",
+			"isGuessed": false
+		},
+		{
+			"id": "416",
+			"russian": "мотоцикл",
+			"english": "motorcycle",
+			"isGuessed": false
+		},
+		{
+			"id": "417",
+			"russian": "автомобиль",
+			"english": "car",
+			"isGuessed": false
+		},
+		{
+			"id": "418",
+			"russian": "грузовик",
+			"english": "truck",
+			"isGuessed": false
+		},
+		{
+			"id": "419",
+			"russian": "автобус",
+			"english": "bus",
+			"isGuessed": false
+		},
+		{
+			"id": "420",
+			"russian": "троллейбус",
+			"english": "trolleybus",
+			"isGuessed": false
+		},
+		{
+			"id": "421",
+			"russian": "трамвай",
+			"english": "tram",
+			"isGuessed": false
+		},
+		{
+			"id": "422",
+			"russian": "метро",
+			"english": "subway",
+			"isGuessed": false
+		},
+		{
+			"id": "423",
+			"russian": "поезд",
+			"english": "train",
+			"isGuessed": false
+		},
+		{
+			"id": "424",
+			"russian": "самолет",
+			"english": "airplane",
+			"isGuessed": false
+		},
+		{
+			"id": "425",
+			"russian": "вертолет",
+			"english": "helicopter",
+			"isGuessed": false
+		},
+		{
+			"id": "426",
+			"russian": "корабль",
+			"english": "ship",
+			"isGuessed": false
+		},
+		{
+			"id": "427",
+			"russian": "лодка",
+			"english": "boat",
+			"isGuessed": false
+		},
+		{
+			"id": "428",
+			"russian": "яхта",
+			"english": "yacht",
+			"isGuessed": false
+		},
+		{
+			"id": "429",
+			"russian": "парус",
+			"english": "sail",
+			"isGuessed": false
+		},
+		{
+			"id": "430",
+			"russian": "якорь",
+			"english": "anchor",
+			"isGuessed": false
+		},
+		{
+			"id": "431",
+			"russian": "штурвал",
+			"english": "wheel",
+			"isGuessed": false
+		},
+		{
+			"id": "432",
+			"russian": "GPS",
+			"english": "GPS",
+			"isGuessed": false
+		},
+		{
+			"id": "433",
+			"russian": "навигатор",
+			"english": "navigator",
+			"isGuessed": false
+		},
+		{
+			"id": "434",
+			"russian": "спидометр",
+			"english": "speedometer",
+			"isGuessed": false
+		},
+		{
+			"id": "435",
+			"russian": "одометр",
+			"english": "odometer",
+			"isGuessed": false
+		},
+		{
+			"id": "436",
+			"russian": "топливо",
+			"english": "fuel",
+			"isGuessed": false
+		},
+		{
+			"id": "437",
+			"russian": "бензин",
+			"english": "gasoline",
+			"isGuessed": false
+		},
+		{
+			"id": "438",
+			"russian": "дизель",
+			"english": "diesel",
+			"isGuessed": false
+		},
+		{
+			"id": "439",
+			"russian": "масло",
+			"english": "oil",
+			"isGuessed": false
+		},
+		{
+			"id": "440",
+			"russian": "антифриз",
+			"english": "antifreeze",
+			"isGuessed": false
+		},
+		{
+			"id": "441",
+			"russian": "тормозная жидкость",
+			"english": "brake fluid",
+			"isGuessed": false
+		},
+		{
+			"id": "442",
+			"russian": "аккумулятор",
+			"english": "battery",
+			"isGuessed": false
+		},
+		{
+			"id": "443",
+			"russian": "генератор",
+			"english": "generator",
+			"isGuessed": false
+		},
+		{
+			"id": "444",
+			"russian": "стартер",
+			"english": "starter",
+			"isGuessed": false
+		},
+		{
+			"id": "445",
+			"russian": "двигатель",
+			"english": "engine",
+			"isGuessed": false
+		},
+		{
+			"id": "446",
+			"russian": "мотор",
+			"english": "motor",
+			"isGuessed": false
+		},
+		{
+			"id": "447",
+			"russian": "трансмиссия",
+			"english": "transmission",
+			"isGuessed": false
+		},
+		{
+			"id": "448",
+			"russian": "коробка передач",
+			"english": "gearbox",
+			"isGuessed": false
+		},
+		{
+			"id": "449",
+			"russian": "сцепление",
+			"english": "clutch",
+			"isGuessed": false
+		},
+		{
+			"id": "450",
+			"russian": "тормоз",
+			"english": "brake",
+			"isGuessed": false
+		},
+		{
+			"id": "451",
+			"russian": "руль",
+			"english": "steering wheel",
+			"isGuessed": false
+		},
+		{
+			"id": "452",
+			"russian": "педаль",
+			"english": "pedal",
+			"isGuessed": false
+		},
+		{
+			"id": "453",
+			"russian": "газ",
+			"english": "gas pedal",
+			"isGuessed": false
+		},
+		{
+			"id": "454",
+			"russian": "тормоз",
+			"english": "brake pedal",
+			"isGuessed": false
+		},
+		{
+			"id": "455",
+			"russian": "сцепление",
+			"english": "clutch pedal",
+			"isGuessed": false
+		},
+		{
+			"id": "456",
+			"russian": "ручной тормоз",
+			"english": "handbrake",
+			"isGuessed": false
+		},
+		{
+			"id": "457",
+			"russian": "ремень безопасности",
+			"english": "seat belt",
+			"isGuessed": false
+		},
+		{
+			"id": "458",
+			"russian": "подушка безопасности",
+			"english": "airbag",
+			"isGuessed": false
+		},
+		{
+			"id": "459",
+			"russian": "зеркало заднего вида",
+			"english": "rearview mirror",
+			"isGuessed": false
+		},
+		{
+			"id": "460",
+			"russian": "стеклоочиститель",
+			"english": "windshield wiper",
+			"isGuessed": false
+		},
+		{
+			"id": "461",
+			"russian": "фары",
+			"english": "headlights",
+			"isGuessed": false
+		},
+		{
+			"id": "462",
+			"russian": "габаритные огни",
+			"english": "parking lights",
+			"isGuessed": false
+		},
+		{
+			"id": "463",
+			"russian": "поворотники",
+			"english": "turn signals",
+			"isGuessed": false
+		},
+		{
+			"id": "464",
+			"russian": "стоп-сигналы",
+			"english": "brake lights",
+			"isGuessed": false
+		},
+		{
+			"id": "465",
+			"russian": "задние фонари",
+			"english": "taillights",
+			"isGuessed": false
+		},
+		{
+			"id": "466",
+			"russian": "противотуманные фары",
+			"english": "fog lights",
+			"isGuessed": false
+		},
+		{
+			"id": "467",
+			"russian": "сигнал",
+			"english": "horn",
+			"isGuessed": false
+		},
+		{
+			"id": "468",
+			"russian": "радиатор",
+			"english": "radiator",
+			"isGuessed": false
+		},
+		{
+			"id": "469",
+			"russian": "охлаждающая жидкость",
+			"english": "coolant",
+			"isGuessed": false
+		},
+		{
+			"id": "470",
+			"russian": "масляный фильтр",
+			"english": "oil filter",
+			"isGuessed": false
+		},
+		{
+			"id": "471",
+			"russian": "воздушный фильтр",
+			"english": "air filter",
+			"isGuessed": false
+		},
+		{
+			"id": "472",
+			"russian": "топливный фильтр",
+			"english": "fuel filter",
+			"isGuessed": false
+		},
+		{
+			"id": "473",
+			"russian": "свечи зажигания",
+			"english": "spark plugs",
+			"isGuessed": false
+		},
+		{
+			"id": "474",
+			"russian": "катушка зажигания",
+			"english": "ignition coil",
+			"isGuessed": false
+		},
+		{
+			"id": "475",
+			"russian": "распределитель",
+			"english": "distributor",
+			"isGuessed": false
+		},
+		{
+			"id": "476",
+			"russian": "генератор",
+			"english": "alternator",
+			"isGuessed": false
+		},
+		{
+			"id": "477",
+			"russian": "стартер",
+			"english": "starter motor",
+			"isGuessed": false
+		},
+		{
+			"id": "478",
+			"russian": "аккумулятор",
+			"english": "car battery",
+			"isGuessed": false
+		},
+		{
+			"id": "479",
+			"russian": "провода",
+			"english": "wires",
+			"isGuessed": false
+		},
+		{
+			"id": "480",
+			"russian": "кабели",
+			"english": "cables",
+			"isGuessed": false
+		},
+		{
+			"id": "481",
+			"russian": "предохранители",
+			"english": "fuses",
+			"isGuessed": false
+		},
+		{
+			"id": "482",
+			"russian": "реле",
+			"english": "relay",
+			"isGuessed": false
+		},
+		{
+			"id": "483",
+			"russian": "датчик",
+			"english": "sensor",
+			"isGuessed": false
+		},
+		{
+			"id": "484",
+			"russian": "термостат",
+			"english": "thermostat",
+			"isGuessed": false
+		},
+		{
+			"id": "485",
+			"russian": "водяной насос",
+			"english": "water pump",
+			"isGuessed": false
+		},
+		{
+			"id": "486",
+			"russian": "масляный насос",
+			"english": "oil pump",
+			"isGuessed": false
+		},
+		{
+			"id": "487",
+			"russian": "топливный насос",
+			"english": "fuel pump",
+			"isGuessed": false
+		},
+		{
+			"id": "488",
+			"russian": "инжектор",
+			"english": "injector",
+			"isGuessed": false
+		},
+		{
+			"id": "489",
+			"russian": "карбюратор",
+			"english": "carburetor",
+			"isGuessed": false
+		},
+		{
+			"id": "490",
+			"russian": "выхлопная труба",
+			"english": "exhaust pipe",
+			"isGuessed": false
+		},
+		{
+			"id": "491",
+			"russian": "глушитель",
+			"english": "muffler",
+			"isGuessed": false
+		},
+		{
+			"id": "492",
+			"russian": "катализатор",
+			"english": "catalytic converter",
+			"isGuessed": false
+		},
+		{
+			"id": "493",
+			"russian": "резонатор",
+			"english": "resonator",
+			"isGuessed": false
+		},
+		{
+			"id": "494",
+			"russian": "выпускной коллектор",
+			"english": "exhaust manifold",
+			"isGuessed": false
+		},
+		{
+			"id": "495",
+			"russian": "впускной коллектор",
+			"english": "intake manifold",
+			"isGuessed": false
+		},
+		{
+			"id": "496",
+			"russian": "турбонаддув",
+			"english": "turbocharger",
+			"isGuessed": false
+		},
+		{
+			"id": "497",
+			"russian": "интеркулер",
+			"english": "intercooler",
+			"isGuessed": false
+		},
+		{
+			"id": "498",
+			"russian": "радиатор интеркулера",
+			"english": "intercooler radiator",
+			"isGuessed": false
+		},
+		{
+			"id": "499",
+			"russian": "масляный радиатор",
+			"english": "oil cooler",
+			"isGuessed": false
+		},
+		{
+			"id": "500",
+			"russian": "трансмиссионная жидкость",
+			"english": "transmission fluid",
+			"isGuessed": false
+		},
+		{
+			"id": "501",
+			"russian": "гидроусилитель руля",
+			"english": "power steering",
+			"isGuessed": false
+		},
+		{
+			"id": "502",
+			"russian": "гидроусилитель тормозов",
+			"english": "brake booster",
+			"isGuessed": false
+		},
+		{
+			"id": "503",
+			"russian": "главный цилиндр тормозов",
+			"english": "brake master cylinder",
+			"isGuessed": false
+		},
+		{
+			"id": "504",
+			"russian": "тормозные колодки",
+			"english": "brake pads",
+			"isGuessed": false
+		},
+		{
+			"id": "505",
+			"russian": "тормозные диски",
+			"english": "brake rotors",
+			"isGuessed": false
+		},
+		{
+			"id": "506",
+			"russian": "тормозные суппорты",
+			"english": "brake calipers",
+			"isGuessed": false
+		},
+		{
+			"id": "507",
+			"russian": "тормозные шланги",
+			"english": "brake hoses",
+			"isGuessed": false
+		},
+		{
+			"id": "508",
+			"russian": "тормозные трубки",
+			"english": "brake lines",
+			"isGuessed": false
+		},
+		{
+			"id": "509",
+			"russian": "стояночный тормоз",
+			"english": "parking brake",
+			"isGuessed": false
+		},
+		{
+			"id": "510",
+			"russian": "амортизаторы",
+			"english": "shock absorbers",
+			"isGuessed": false
+		},
+		{
+			"id": "511",
+			"russian": "пружины",
+			"english": "springs",
+			"isGuessed": false
+		},
+		{
+			"id": "512",
+			"russian": "стойки",
+			"english": "struts",
+			"isGuessed": false
+		},
+		{
+			"id": "513",
+			"russian": "стабилизатор поперечной устойчивости",
+			"english": "sway bar",
+			"isGuessed": false
+		},
+		{
+			"id": "514",
+			"russian": "рычаги подвески",
+			"english": "suspension arms",
+			"isGuessed": false
+		},
+		{
+			"id": "515",
+			"russian": "шаровые опоры",
+			"english": "ball joints",
+			"isGuessed": false
+		},
+		{
+			"id": "516",
+			"russian": "сайлентблоки",
+			"english": "bushings",
+			"isGuessed": false
+		},
+		{
+			"id": "517",
+			"russian": "подшипники",
+			"english": "bearings",
+			"isGuessed": false
+		},
+		{
+			"id": "518",
+			"russian": "ступицы",
+			"english": "hubs",
+			"isGuessed": false
+		},
+		{
+			"id": "519",
+			"russian": "ступичные подшипники",
+			"english": "wheel bearings",
+			"isGuessed": false
+		},
+		{
+			"id": "520",
+			"russian": "диски",
+			"english": "wheels",
+			"isGuessed": false
+		},
+		{
+			"id": "521",
+			"russian": "шины",
+			"english": "tires",
+			"isGuessed": false
+		},
+		{
+			"id": "522",
+			"russian": "покрышки",
+			"english": "tires",
+			"isGuessed": false
+		},
+		{
+			"id": "523",
+			"russian": "камеры",
+			"english": "inner tubes",
+			"isGuessed": false
+		},
+		{
+			"id": "524",
+			"russian": "вентили",
+			"english": "valves",
+			"isGuessed": false
+		},
+		{
+			"id": "525",
+			"russian": "балансировочные грузики",
+			"english": "wheel weights",
+			"isGuessed": false
+		},
+		{
+			"id": "526",
+			"russian": "колпаки",
+			"english": "hubcaps",
+			"isGuessed": false
+		},
+		{
+			"id": "527",
+			"russian": "диски",
+			"english": "rims",
+			"isGuessed": false
+		},
+		{
+			"id": "528",
+			"russian": "литые диски",
+			"english": "alloy wheels",
+			"isGuessed": false
+		},
+		{
+			"id": "529",
+			"russian": "штампованные диски",
+			"english": "steel wheels",
+			"isGuessed": false
+		},
+		{
+			"id": "530",
+			"russian": "спортивные диски",
+			"english": "sport wheels",
+			"isGuessed": false
+		},
+		{
+			"id": "531",
+			"russian": "хромированные диски",
+			"english": "chrome wheels",
+			"isGuessed": false
+		},
+		{
+			"id": "532",
+			"russian": "покраска",
+			"english": "paint",
+			"isGuessed": false
+		},
+		{
+			"id": "533",
+			"russian": "лак",
+			"english": "varnish",
+			"isGuessed": false
+		},
+		{
+			"id": "534",
+			"russian": "полировка",
+			"english": "polish",
+			"isGuessed": false
+		},
+		{
+			"id": "535",
+			"russian": "воск",
+			"english": "wax",
+			"isGuessed": false
+		},
+		{
+			"id": "536",
+			"russian": "автомойка",
+			"english": "car wash",
+			"isGuessed": false
+		},
+		{
+			"id": "537",
+			"russian": "губка",
+			"english": "sponge",
+			"isGuessed": false
+		},
+		{
+			"id": "538",
+			"russian": "тряпка",
+			"english": "rag",
+			"isGuessed": false
+		},
+		{
+			"id": "539",
+			"russian": "ведро",
+			"english": "bucket",
+			"isGuessed": false
+		},
+		{
+			"id": "540",
+			"russian": "шланг",
+			"english": "hose",
+			"isGuessed": false
+		},
+		{
+			"id": "541",
+			"russian": "полироль",
+			"english": "polish",
+			"isGuessed": false
+		},
+		{
+			"id": "542",
+			"russian": "антистатик",
+			"english": "anti-static",
+			"isGuessed": false
+		},
+		{
+			"id": "543",
+			"russian": "ароматизатор",
+			"english": "air freshener",
+			"isGuessed": false
+		},
+		{
+			"id": "544",
+			"russian": "чехлы на сиденья",
+			"english": "seat covers",
+			"isGuessed": false
+		},
+		{
+			"id": "545",
+			"russian": "коврики",
+			"english": "floor mats",
+			"isGuessed": false
+		},
+		{
+			"id": "546",
+			"russian": "багажник",
+			"english": "trunk",
+			"isGuessed": false
+		},
+		{
+			"id": "547",
+			"russian": "багажник на крыше",
+			"english": "roof rack",
+			"isGuessed": false
+		},
+		{
+			"id": "548",
+			"russian": "фаркоп",
+			"english": "trailer hitch",
+			"isGuessed": false
+		},
+		{
+			"id": "549",
+			"russian": "прицеп",
+			"english": "trailer",
+			"isGuessed": false
+		},
+		{
+			"id": "550",
+			"russian": "дом на колесах",
+			"english": "RV",
+			"isGuessed": false
+		},
+		{
+			"id": "551",
+			"russian": "кемпер",
+			"english": "camper",
+			"isGuessed": false
+		},
+		{
+			"id": "552",
+			"russian": "палатка",
+			"english": "tent",
+			"isGuessed": false
+		},
+		{
+			"id": "553",
+			"russian": "спальник",
+			"english": "sleeping bag",
+			"isGuessed": false
+		},
+		{
+			"id": "554",
+			"russian": "пенка",
+			"english": "foam pad",
+			"isGuessed": false
+		},
+		{
+			"id": "555",
+			"russian": "рюкзак",
+			"english": "backpack",
+			"isGuessed": false
+		},
+		{
+			"id": "556",
+			"russian": "чемодан",
+			"english": "suitcase",
+			"isGuessed": false
+		},
+		{
+			"id": "557",
+			"russian": "дорожная сумка",
+			"english": "travel bag",
+			"isGuessed": false
+		},
+		{
+			"id": "558",
+			"russian": "косметичка",
+			"english": "cosmetic bag",
+			"isGuessed": false
+		},
+		{
+			"id": "559",
+			"russian": "туалетная сумка",
+			"english": "toiletry bag",
+			"isGuessed": false
+		},
+		{
+			"id": "560",
+			"russian": "аптечка",
+			"english": "first aid kit",
+			"isGuessed": false
+		},
+		{
+			"id": "561",
+			"russian": "бинт",
+			"english": "bandage",
+			"isGuessed": false
+		},
+		{
+			"id": "562",
+			"russian": "пластырь",
+			"english": "band-aid",
+			"isGuessed": false
+		},
+		{
+			"id": "563",
+			"russian": "йод",
+			"english": "iodine",
+			"isGuessed": false
+		},
+		{
+			"id": "564",
+			"russian": "зеленка",
+			"english": "brilliant green",
+			"isGuessed": false
+		},
+		{
+			"id": "565",
+			"russian": "перекись водорода",
+			"english": "hydrogen peroxide",
+			"isGuessed": false
+		},
+		{
+			"id": "566",
+			"russian": "вата",
+			"english": "cotton",
+			"isGuessed": false
+		},
+		{
+			"id": "567",
+			"russian": "марля",
+			"english": "gauze",
+			"isGuessed": false
+		},
+		{
+			"id": "568",
+			"russian": "термометр",
+			"english": "thermometer",
+			"isGuessed": false
+		},
+		{
+			"id": "569",
+			"russian": "тонометр",
+			"english": "blood pressure monitor",
+			"isGuessed": false
+		},
+		{
+			"id": "570",
+			"russian": "шприц",
+			"english": "syringe",
+			"isGuessed": false
+		},
+		{
+			"id": "571",
+			"russian": "таблетки",
+			"english": "pills",
+			"isGuessed": false
+		},
+		{
+			"id": "572",
+			"russian": "лекарство",
+			"english": "medicine",
+			"isGuessed": false
+		},
+		{
+			"id": "573",
+			"russian": "антибиотик",
+			"english": "antibiotic",
+			"isGuessed": false
+		},
+		{
+			"id": "574",
+			"russian": "обезболивающее",
+			"english": "painkiller",
+			"isGuessed": false
+		},
+		{
+			"id": "575",
+			"russian": "жаропонижающее",
+			"english": "antipyretic",
+			"isGuessed": false
+		},
+		{
+			"id": "576",
+			"russian": "противовоспалительное",
+			"english": "anti-inflammatory",
+			"isGuessed": false
+		},
+		{
+			"id": "577",
+			"russian": "витамины",
+			"english": "vitamins",
+			"isGuessed": false
+		},
+		{
+			"id": "578",
+			"russian": "таблетки",
+			"english": "tablets",
+			"isGuessed": false
+		},
+		{
+			"id": "579",
+			"russian": "капсулы",
+			"english": "capsules",
+			"isGuessed": false
+		},
+		{
+			"id": "580",
+			"russian": "сироп",
+			"english": "syrup",
+			"isGuessed": false
+		},
+		{
+			"id": "581",
+			"russian": "мазь",
+			"english": "ointment",
+			"isGuessed": false
+		},
+		{
+			"id": "582",
+			"russian": "крем",
+			"english": "cream",
+			"isGuessed": false
+		},
+		{
+			"id": "583",
+			"russian": "гель",
+			"english": "gel",
+			"isGuessed": false
+		},
+		{
+			"id": "584",
+			"russian": "лосьон",
+			"english": "lotion",
+			"isGuessed": false
+		},
+		{
+			"id": "585",
+			"russian": "спрей",
+			"english": "spray",
+			"isGuessed": false
+		},
+		{
+			"id": "586",
+			"russian": "капли",
+			"english": "drops",
+			"isGuessed": false
+		},
+		{
+			"id": "587",
+			"russian": "инъекция",
+			"english": "injection",
+			"isGuessed": false
+		},
+		{
+			"id": "588",
+			"russian": "укол",
+			"english": "shot",
+			"isGuessed": false
+		},
+		{
+			"id": "589",
+			"russian": "операция",
+			"english": "surgery",
+			"isGuessed": false
+		},
+		{
+			"id": "590",
+			"russian": "анестезия",
+			"english": "anesthesia",
+			"isGuessed": false
+		},
+		{
+			"id": "591",
+			"russian": "наркоз",
+			"english": "general anesthesia",
+			"isGuessed": false
+		},
+		{
+			"id": "592",
+			"russian": "местная анестезия",
+			"english": "local anesthesia",
+			"isGuessed": false
+		},
+		{
+			"id": "593",
+			"russian": "швы",
+			"english": "stitches",
+			"isGuessed": false
+		},
+		{
+			"id": "594",
+			"russian": "гипс",
+			"english": "cast",
+			"isGuessed": false
+		},
+		{
+			"id": "595",
+			"russian": "костыли",
+			"english": "crutches",
+			"isGuessed": false
+		},
+		{
+			"id": "596",
+			"russian": "инвалидная коляска",
+			"english": "wheelchair",
+			"isGuessed": false
+		},
+		{
+			"id": "597",
+			"russian": "трость",
+			"english": "cane",
+			"isGuessed": false
+		},
+		{
+			"id": "598",
+			"russian": "слуховой аппарат",
+			"english": "hearing aid",
+			"isGuessed": false
+		},
+		{
+			"id": "599",
+			"russian": "контактные линзы",
+			"english": "contact lenses",
+			"isGuessed": false
+		},
+		{
+			"id": "600",
+			"russian": "протез",
+			"english": "prosthesis",
+			"isGuessed": false
+		},
+		{
+			"id": "601",
+			"russian": "имплант",
+			"english": "implant",
+			"isGuessed": false
+		},
+		{
+			"id": "602",
+			"russian": "зубной протез",
+			"english": "denture",
+			"isGuessed": false
+		},
+		{
+			"id": "603",
+			"russian": "брекеты",
+			"english": "braces",
+			"isGuessed": false
+		},
+		{
+			"id": "604",
+			"russian": "капа",
+			"english": "mouthguard",
+			"isGuessed": false
+		},
+		{
+			"id": "605",
+			"russian": "шина",
+			"english": "splint",
+			"isGuessed": false
+		},
+		{
+			"id": "606",
+			"russian": "бандаж",
+			"english": "bandage",
+			"isGuessed": false
+		},
+		{
+			"id": "607",
+			"russian": "эластичный бинт",
+			"english": "elastic bandage",
+			"isGuessed": false
+		},
+		{
+			"id": "608",
+			"russian": "ортез",
+			"english": "orthosis",
+			"isGuessed": false
+		},
+		{
+			"id": "609",
+			"russian": "корсет",
+			"english": "corset",
+			"isGuessed": false
+		},
+		{
+			"id": "610",
+			"russian": "наколенник",
+			"english": "knee pad",
+			"isGuessed": false
+		},
+		{
+			"id": "611",
+			"russian": "налокотник",
+			"english": "elbow pad",
+			"isGuessed": false
+		},
+		{
+			"id": "612",
+			"russian": "защита запястья",
+			"english": "wrist guard",
+			"isGuessed": false
+		},
+		{
+			"id": "613",
+			"russian": "шлем",
+			"english": "helmet",
+			"isGuessed": false
+		},
+		{
+			"id": "614",
+			"russian": "защитные очки",
+			"english": "safety glasses",
+			"isGuessed": false
+		},
+		{
+			"id": "615",
+			"russian": "маска",
+			"english": "mask",
+			"isGuessed": false
+		},
+		{
+			"id": "616",
+			"russian": "респиратор",
+			"english": "respirator",
+			"isGuessed": false
+		},
+		{
+			"id": "617",
+			"russian": "фартук",
+			"english": "apron",
+			"isGuessed": false
+		},
+		{
+			"id": "618",
+			"russian": "халат",
+			"english": "gown",
+			"isGuessed": false
+		},
+		{
+			"id": "619",
+			"russian": "бахилы",
+			"english": "shoe covers",
+			"isGuessed": false
+		},
+		{
+			"id": "620",
+			"russian": "шапочка",
+			"english": "cap",
+			"isGuessed": false
+		},
+		{
+			"id": "621",
+			"russian": "маска",
+			"english": "face mask",
+			"isGuessed": false
+		},
+		{
+			"id": "622",
+			"russian": "антисептик",
+			"english": "antiseptic",
+			"isGuessed": false
+		},
+		{
+			"id": "623",
+			"russian": "дезинфицирующее средство",
+			"english": "disinfectant",
+			"isGuessed": false
+		},
+		{
+			"id": "624",
+			"russian": "гель для рук",
+			"english": "hand sanitizer",
+			"isGuessed": false
+		},
+		{
+			"id": "625",
+			"russian": "салфетки",
+			"english": "wipes",
+			"isGuessed": false
+		},
+		{
+			"id": "626",
+			"russian": "влажные салфетки",
+			"english": "wet wipes",
+			"isGuessed": false
+		},
+		{
+			"id": "627",
+			"russian": "сухие салфетки",
+			"english": "dry wipes",
+			"isGuessed": false
+		},
+		{
+			"id": "628",
+			"russian": "бумажные полотенца",
+			"english": "paper towels",
+			"isGuessed": false
+		},
+		{
+			"id": "629",
+			"russian": "кухонные полотенца",
+			"english": "kitchen towels",
+			"isGuessed": false
+		},
+		{
+			"id": "630",
+			"russian": "швабра",
+			"english": "mop",
+			"isGuessed": false
+		},
+		{
+			"id": "631",
+			"russian": "мешок для пылесоса",
+			"english": "vacuum bag",
+			"isGuessed": false
+		},
+		{
+			"id": "632",
+			"russian": "фильтр",
+			"english": "filter",
+			"isGuessed": false
+		},
+		{
+			"id": "633",
+			"russian": "пылесос",
+			"english": "vacuum",
+			"isGuessed": false
+		},
+		{
+			"id": "634",
+			"russian": "скребок",
+			"english": "scraper",
+			"isGuessed": false
+		},
+		{
+			"id": "635",
+			"russian": "шпатель",
+			"english": "spatula",
+			"isGuessed": false
+		},
+		{
+			"id": "636",
+			"russian": "лопатка",
+			"english": "spatula",
+			"isGuessed": false
+		},
+		{
+			"id": "637",
+			"russian": "разделочная доска",
+			"english": "cutting board",
+			"isGuessed": false
+		},
+		{
+			"id": "638",
+			"russian": "терка",
+			"english": "grater",
+			"isGuessed": false
+		},
+		{
+			"id": "639",
+			"russian": "овощечистка",
+			"english": "peeler",
+			"isGuessed": false
+		},
+		{
+			"id": "640",
+			"russian": "открывалка",
+			"english": "can opener",
+			"isGuessed": false
+		},
+		{
+			"id": "641",
+			"russian": "штопор",
+			"english": "corkscrew",
+			"isGuessed": false
+		},
+		{
+			"id": "642",
+			"russian": "ножи",
+			"english": "knives",
+			"isGuessed": false
+		},
+		{
+			"id": "643",
+			"russian": "вилки",
+			"english": "forks",
+			"isGuessed": false
+		},
+		{
+			"id": "644",
+			"russian": "ложки",
+			"english": "spoons",
+			"isGuessed": false
+		},
+		{
+			"id": "645",
+			"russian": "чашки",
+			"english": "cups",
+			"isGuessed": false
+		},
+		{
+			"id": "646",
+			"russian": "тарелки",
+			"english": "plates",
+			"isGuessed": false
+		},
+		{
+			"id": "647",
+			"russian": "миски",
+			"english": "bowls",
+			"isGuessed": false
+		},
+		{
+			"id": "648",
+			"russian": "стаканы",
+			"english": "glasses",
+			"isGuessed": false
+		},
+		{
+			"id": "649",
+			"russian": "кружки",
+			"english": "mugs",
+			"isGuessed": false
+		},
+		{
+			"id": "650",
+			"russian": "чайник",
+			"english": "teapot",
+			"isGuessed": false
+		},
+		{
+			"id": "651",
+			"russian": "кофейник",
+			"english": "coffee pot",
+			"isGuessed": false
+		},
+		{
+			"id": "652",
+			"russian": "кофеварка",
+			"english": "coffee maker",
+			"isGuessed": false
+		},
+		{
+			"id": "653",
+			"russian": "чайник",
+			"english": "kettle",
+			"isGuessed": false
+		},
+		{
+			"id": "654",
+			"russian": "термос",
+			"english": "thermos",
+			"isGuessed": false
+		},
+		{
+			"id": "655",
+			"russian": "кувшин",
+			"english": "pitcher",
+			"isGuessed": false
+		},
+		{
+			"id": "656",
+			"russian": "сито",
+			"english": "sieve",
+			"isGuessed": false
+		},
+		{
+			"id": "657",
+			"russian": "дуршлаг",
+			"english": "colander",
+			"isGuessed": false
+		},
+		{
+			"id": "658",
+			"russian": "шумовка",
+			"english": "slotted spoon",
+			"isGuessed": false
+		},
+		{
+			"id": "659",
+			"russian": "половник",
+			"english": "ladle",
+			"isGuessed": false
+		},
+		{
+			"id": "660",
+			"russian": "ложка для мороженого",
+			"english": "ice cream scoop",
+			"isGuessed": false
+		},
+		{
+			"id": "661",
+			"russian": "консервный нож",
+			"english": "can opener",
+			"isGuessed": false
+		},
+		{
+			"id": "662",
+			"russian": "открывалка",
+			"english": "bottle opener",
+			"isGuessed": false
+		},
+		{
+			"id": "663",
+			"russian": "щипцы",
+			"english": "tongs",
+			"isGuessed": false
+		},
+		{
+			"id": "664",
+			"russian": "венчик",
+			"english": "whisk",
+			"isGuessed": false
+		},
+		{
+			"id": "665",
+			"russian": "миксер",
+			"english": "mixer",
+			"isGuessed": false
+		},
+		{
+			"id": "666",
+			"russian": "блендер",
+			"english": "blender",
+			"isGuessed": false
+		},
+		{
+			"id": "667",
+			"russian": "кухонный комбайн",
+			"english": "food processor",
+			"isGuessed": false
+		},
+		{
+			"id": "668",
+			"russian": "мясорубка",
+			"english": "meat grinder",
+			"isGuessed": false
+		},
+		{
+			"id": "669",
+			"russian": "соковыжималка",
+			"english": "juicer",
+			"isGuessed": false
+		},
+		{
+			"id": "670",
+			"russian": "тостер",
+			"english": "toaster",
+			"isGuessed": false
+		},
+		{
+			"id": "671",
+			"russian": "вафельница",
+			"english": "waffle iron",
+			"isGuessed": false
+		},
+		{
+			"id": "672",
+			"russian": "блинница",
+			"english": "pancake maker",
+			"isGuessed": false
+		},
+		{
+			"id": "673",
+			"russian": "гриль",
+			"english": "grill",
+			"isGuessed": false
+		},
+		{
+			"id": "674",
+			"russian": "мангал",
+			"english": "barbecue",
+			"isGuessed": false
+		},
+		{
+			"id": "675",
+			"russian": "шампур",
+			"english": "skewer",
+			"isGuessed": false
+		},
+		{
+			"id": "676",
+			"russian": "решетка",
+			"english": "grill",
+			"isGuessed": false
+		},
+		{
+			"id": "677",
+			"russian": "уголь",
+			"english": "charcoal",
+			"isGuessed": false
+		},
+		{
+			"id": "678",
+			"russian": "растопка",
+			"english": "kindling",
+			"isGuessed": false
+		},
+		{
+			"id": "679",
+			"russian": "огнетушитель",
+			"english": "fire extinguisher",
+			"isGuessed": false
+		},
+		{
+			"id": "680",
+			"russian": "ведро с водой",
+			"english": "water bucket",
+			"isGuessed": false
+		},
+		{
+			"id": "681",
+			"russian": "мотыга",
+			"english": "hoe",
+			"isGuessed": false
+		},
+		{
+			"id": "682",
+			"russian": "секатор",
+			"english": "pruning shears",
+			"isGuessed": false
+		},
+		{
+			"id": "683",
+			"russian": "топор",
+			"english": "axe",
+			"isGuessed": false
+		},
+		{
+			"id": "684",
+			"russian": "шуруповерт",
+			"english": "screwdriver",
+			"isGuessed": false
+		},
+		{
+			"id": "685",
+			"russian": "гвозди",
+			"english": "nails",
+			"isGuessed": false
+		},
+		{
+			"id": "686",
+			"russian": "шурупы",
+			"english": "screws",
+			"isGuessed": false
+		},
+		{
+			"id": "687",
+			"russian": "болты",
+			"english": "bolts",
+			"isGuessed": false
+		},
+		{
+			"id": "688",
+			"russian": "гайки",
+			"english": "nuts",
+			"isGuessed": false
+		},
+		{
+			"id": "689",
+			"russian": "шайбы",
+			"english": "washers",
+			"isGuessed": false
+		},
+		{
+			"id": "690",
+			"russian": "изолента",
+			"english": "electrical tape",
+			"isGuessed": false
+		},
+		{
+			"id": "691",
+			"russian": "скотч",
+			"english": "duct tape",
+			"isGuessed": false
+		},
+		{
+			"id": "692",
+			"russian": "малярный скотч",
+			"english": "masking tape",
+			"isGuessed": false
+		},
+		{
+			"id": "693",
+			"russian": "упаковочная лента",
+			"english": "packing tape",
+			"isGuessed": false
+		},
+		{
+			"id": "694",
+			"russian": "скотч",
+			"english": "adhesive tape",
+			"isGuessed": false
+		},
+		{
+			"id": "695",
+			"russian": "вилка",
+			"english": "plug",
+			"isGuessed": false
+		},
+		{
+			"id": "696",
+			"russian": "удлинитель",
+			"english": "extension cord",
+			"isGuessed": false
+		},
+		{
+			"id": "697",
+			"russian": "разветвитель",
+			"english": "splitter",
+			"isGuessed": false
+		},
+		{
+			"id": "698",
+			"russian": "переходник",
+			"english": "adapter",
+			"isGuessed": false
+		},
+		{
+			"id": "699",
+			"russian": "трансформатор",
+			"english": "transformer",
+			"isGuessed": false
+		},
+		{
+			"id": "700",
+			"russian": "стабилизатор",
+			"english": "voltage regulator",
+			"isGuessed": false
+		},
+		{
+			"id": "701",
+			"russian": "ИБП",
+			"english": "UPS",
+			"isGuessed": false
+		},
+		{
+			"id": "702",
+			"russian": "зарядное устройство",
+			"english": "charger",
+			"isGuessed": false
+		},
+		{
+			"id": "703",
+			"russian": "провод",
+			"english": "wire",
+			"isGuessed": false
+		},
+		{
+			"id": "704",
+			"russian": "автомат",
+			"english": "circuit breaker",
+			"isGuessed": false
+		},
+		{
+			"id": "705",
+			"russian": "предохранитель",
+			"english": "fuse",
+			"isGuessed": false
+		},
+		{
+			"id": "706",
+			"russian": "таймер",
+			"english": "timer",
+			"isGuessed": false
+		},
+		{
+			"id": "707",
+			"russian": "розетка с таймером",
+			"english": "timer socket",
+			"isGuessed": false
+		},
+		{
+			"id": "708",
+			"russian": "умная розетка",
+			"english": "smart socket",
+			"isGuessed": false
+		},
+		{
+			"id": "709",
+			"russian": "Wi-Fi роутер",
+			"english": "Wi-Fi router",
+			"isGuessed": false
+		},
+		{
+			"id": "710",
+			"russian": "модем",
+			"english": "modem",
+			"isGuessed": false
+		},
+		{
+			"id": "711",
+			"russian": "сетевой кабель",
+			"english": "network cable",
+			"isGuessed": false
+		},
+		{
+			"id": "712",
+			"russian": "Ethernet кабель",
+			"english": "Ethernet cable",
+			"isGuessed": false
+		},
+		{
+			"id": "713",
+			"russian": "оптоволокно",
+			"english": "fiber optic",
+			"isGuessed": false
+		},
+		{
+			"id": "714",
+			"russian": "спутниковая антенна",
+			"english": "satellite dish",
+			"isGuessed": false
+		},
+		{
+			"id": "715",
+			"russian": "антенна",
+			"english": "antenna",
+			"isGuessed": false
+		},
+		{
+			"id": "716",
+			"russian": "усилитель сигнала",
+			"english": "signal amplifier",
+			"isGuessed": false
+		},
+		{
+			"id": "717",
+			"russian": "ретранслятор",
+			"english": "repeater",
+			"isGuessed": false
+		},
+		{
+			"id": "718",
+			"russian": "точка доступа",
+			"english": "access point",
+			"isGuessed": false
+		},
+		{
+			"id": "719",
+			"russian": "маршрутизатор",
+			"english": "router",
+			"isGuessed": false
+		},
+		{
+			"id": "720",
+			"russian": "коммутатор",
+			"english": "switch",
+			"isGuessed": false
+		},
+		{
+			"id": "721",
+			"russian": "хаб",
+			"english": "hub",
+			"isGuessed": false
+		},
+		{
+			"id": "722",
+			"russian": "мост",
+			"english": "bridge",
+			"isGuessed": false
+		},
+		{
+			"id": "723",
+			"russian": "шлюз",
+			"english": "gateway",
+			"isGuessed": false
+		},
+		{
+			"id": "724",
+			"russian": "файрвол",
+			"english": "firewall",
+			"isGuessed": false
+		},
+		{
+			"id": "725",
+			"russian": "VPN",
+			"english": "VPN",
+			"isGuessed": false
+		},
+		{
+			"id": "726",
+			"russian": "прокси",
+			"english": "proxy",
+			"isGuessed": false
+		},
+		{
+			"id": "727",
+			"russian": "DNS",
+			"english": "DNS",
+			"isGuessed": false
+		},
+		{
+			"id": "728",
+			"russian": "DHCP",
+			"english": "DHCP",
+			"isGuessed": false
+		},
+		{
+			"id": "729",
+			"russian": "IP адрес",
+			"english": "IP address",
+			"isGuessed": false
+		},
+		{
+			"id": "730",
+			"russian": "MAC адрес",
+			"english": "MAC address",
+			"isGuessed": false
+		},
+		{
+			"id": "731",
+			"russian": "порт",
+			"english": "port",
+			"isGuessed": false
+		},
+		{
+			"id": "732",
+			"russian": "протокол",
+			"english": "protocol",
+			"isGuessed": false
+		},
+		{
+			"id": "733",
+			"russian": "HTTP",
+			"english": "HTTP",
+			"isGuessed": false
+		},
+		{
+			"id": "734",
+			"russian": "HTTPS",
+			"english": "HTTPS",
+			"isGuessed": false
+		},
+		{
+			"id": "735",
+			"russian": "FTP",
+			"english": "FTP",
+			"isGuessed": false
+		},
+		{
+			"id": "736",
+			"russian": "SSH",
+			"english": "SSH",
+			"isGuessed": false
+		},
+		{
+			"id": "737",
+			"russian": "Telnet",
+			"english": "Telnet",
+			"isGuessed": false
+		},
+		{
+			"id": "738",
+			"russian": "SMTP",
+			"english": "SMTP",
+			"isGuessed": false
+		},
+		{
+			"id": "739",
+			"russian": "POP3",
+			"english": "POP3",
+			"isGuessed": false
+		},
+		{
+			"id": "740",
+			"russian": "IMAP",
+			"english": "IMAP",
+			"isGuessed": false
+		},
+		{
+			"id": "741",
+			"russian": "ARP",
+			"english": "ARP",
+			"isGuessed": false
+		},
+		{
+			"id": "742",
+			"russian": "ICMP",
+			"english": "ICMP",
+			"isGuessed": false
+		},
+		{
+			"id": "743",
+			"russian": "TCP",
+			"english": "TCP",
+			"isGuessed": false
+		},
+		{
+			"id": "744",
+			"russian": "UDP",
+			"english": "UDP",
+			"isGuessed": false
+		},
+		{
+			"id": "745",
+			"russian": "IP",
+			"english": "IP",
+			"isGuessed": false
+		},
+		{
+			"id": "746",
+			"russian": "IPv4",
+			"english": "IPv4",
+			"isGuessed": false
+		},
+		{
+			"id": "747",
+			"russian": "IPv6",
+			"english": "IPv6",
+			"isGuessed": false
+		},
+		{
+			"id": "748",
+			"russian": "подсеть",
+			"english": "subnet",
+			"isGuessed": false
+		},
+		{
+			"id": "749",
+			"russian": "маска подсети",
+			"english": "subnet mask",
+			"isGuessed": false
+		},
+		{
+			"id": "750",
+			"russian": "маршрут",
+			"english": "route",
+			"isGuessed": false
+		},
+		{
+			"id": "751",
+			"russian": "таблица маршрутизации",
+			"english": "routing table",
+			"isGuessed": false
+		},
+		{
+			"id": "752",
+			"russian": "NAT",
+			"english": "NAT",
+			"isGuessed": false
+		},
+		{
+			"id": "753",
+			"russian": "PAT",
+			"english": "PAT",
+			"isGuessed": false
+		},
+		{
+			"id": "754",
+			"russian": "портфорвардинг",
+			"english": "port forwarding",
+			"isGuessed": false
+		},
+		{
+			"id": "755",
+			"russian": "DMZ",
+			"english": "DMZ",
+			"isGuessed": false
+		},
+		{
+			"id": "756",
+			"russian": "демилитаризованная зона",
+			"english": "DMZ",
+			"isGuessed": false
+		},
+		{
+			"id": "757",
+			"russian": "брандмауэр",
+			"english": "firewall",
+			"isGuessed": false
+		},
+		{
+			"id": "758",
+			"russian": "IDS",
+			"english": "IDS",
+			"isGuessed": false
+		},
+		{
+			"id": "759",
+			"russian": "система обнаружения вторжений",
+			"english": "intrusion detection system",
+			"isGuessed": false
+		},
+		{
+			"id": "760",
+			"russian": "IPS",
+			"english": "IPS",
+			"isGuessed": false
+		},
+		{
+			"id": "761",
+			"russian": "система предотвращения вторжений",
+			"english": "intrusion prevention system",
+			"isGuessed": false
+		},
+		{
+			"id": "762",
+			"russian": "антивирус",
+			"english": "antivirus",
+			"isGuessed": false
+		},
+		{
+			"id": "763",
+			"russian": "защита от вредоносного ПО",
+			"english": "malware protection",
+			"isGuessed": false
+		},
+		{
+			"id": "764",
+			"russian": "шпионское ПО",
+			"english": "spyware",
+			"isGuessed": false
+		},
+		{
+			"id": "765",
+			"russian": "троян",
+			"english": "trojan",
+			"isGuessed": false
+		},
+		{
+			"id": "766",
+			"russian": "червь",
+			"english": "worm",
+			"isGuessed": false
+		},
+		{
+			"id": "767",
+			"russian": "вирус",
+			"english": "virus",
+			"isGuessed": false
+		},
+		{
+			"id": "768",
+			"russian": "троянский конь",
+			"english": "Trojan horse",
+			"isGuessed": false
+		},
+		{
+			"id": "769",
+			"russian": "рекламное ПО",
+			"english": "adware",
+			"isGuessed": false
+		},
+		{
+			"id": "770",
+			"russian": "вымогатель",
+			"english": "ransomware",
+			"isGuessed": false
+		},
+		{
+			"id": "771",
+			"russian": "ботнет",
+			"english": "botnet",
+			"isGuessed": false
+		},
+		{
+			"id": "772",
+			"russian": "DDoS атака",
+			"english": "DDoS attack",
+			"isGuessed": false
+		},
+		{
+			"id": "773",
+			"russian": "фишинг",
+			"english": "phishing",
+			"isGuessed": false
+		},
+		{
+			"id": "774",
+			"russian": "спам",
+			"english": "spam",
+			"isGuessed": false
+		},
+		{
+			"id": "775",
+			"russian": "вредоносное ПО",
+			"english": "malware",
+			"isGuessed": false
+		},
+		{
+			"id": "776",
+			"russian": "DDoS",
+			"english": "DDoS",
+			"isGuessed": false
+		},
+		{
+			"id": "777",
+			"russian": "январь",
+			"english": "January",
+			"isGuessed": false
+		},
+		{
+			"id": "778",
+			"russian": "февраль",
+			"english": "February",
+			"isGuessed": false
+		},
+		{
+			"id": "779",
+			"russian": "март",
+			"english": "March",
+			"isGuessed": false
+		},
+		{
+			"id": "780",
+			"russian": "апрель",
+			"english": "April",
+			"isGuessed": false
+		},
+		{
+			"id": "781",
+			"russian": "май",
+			"english": "May",
+			"isGuessed": false
+		},
+		{
+			"id": "782",
+			"russian": "июнь",
+			"english": "June",
+			"isGuessed": false
+		},
+		{
+			"id": "783",
+			"russian": "июль",
+			"english": "July",
+			"isGuessed": false
+		},
+		{
+			"id": "784",
+			"russian": "август",
+			"english": "August",
+			"isGuessed": false
+		},
+		{
+			"id": "785",
+			"russian": "сентябрь",
+			"english": "September",
+			"isGuessed": false
+		},
+		{
+			"id": "786",
+			"russian": "октябрь",
+			"english": "October",
+			"isGuessed": false
+		},
+		{
+			"id": "787",
+			"russian": "ноябрь",
+			"english": "November",
+			"isGuessed": false
+		},
+		{
+			"id": "788",
+			"russian": "декабрь",
+			"english": "December",
+			"isGuessed": false
+		},
+		{
+			"id": "789",
+			"russian": "понедельник",
+			"english": "Monday",
+			"isGuessed": false
+		},
+		{
+			"id": "790",
+			"russian": "вторник",
+			"english": "Tuesday",
+			"isGuessed": false
+		},
+		{
+			"id": "791",
+			"russian": "среда",
+			"english": "Wednesday",
+			"isGuessed": false
+		},
+		{
+			"id": "792",
+			"russian": "четверг",
+			"english": "Thursday",
+			"isGuessed": false
+		},
+		{
+			"id": "793",
+			"russian": "пятница",
+			"english": "Friday",
+			"isGuessed": false
+		},
+		{
+			"id": "794",
+			"russian": "суббота",
+			"english": "Saturday",
+			"isGuessed": false
+		},
+		{
+			"id": "795",
+			"russian": "воскресенье",
+			"english": "Sunday",
+			"isGuessed": false
+		},
+		{
+			"id": "796",
+			"russian": "час",
+			"english": "hour",
+			"isGuessed": false
+		},
+		{
+			"id": "797",
+			"russian": "минута",
+			"english": "minute",
+			"isGuessed": false
+		},
+		{
+			"id": "798",
+			"russian": "секунда",
+			"english": "second",
+			"isGuessed": false
+		},
+		{
+			"id": "799",
+			"russian": "утро",
+			"english": "morning",
+			"isGuessed": false
+		},
+		{
+			"id": "800",
+			"russian": "вечер",
+			"english": "evening",
+			"isGuessed": false
+		},
+		{
+			"id": "801",
+			"russian": "полночь",
+			"english": "midnight",
+			"isGuessed": false
+		},
+		{
+			"id": "802",
+			"russian": "полдень",
+			"english": "noon",
+			"isGuessed": false
+		},
+		{
+			"id": "803",
+			"russian": "сегодня",
+			"english": "today",
+			"isGuessed": false
+		},
+		{
+			"id": "804",
+			"russian": "вчера",
+			"english": "yesterday",
+			"isGuessed": false
+		},
+		{
+			"id": "805",
+			"russian": "завтра",
+			"english": "tomorrow",
+			"isGuessed": false
+		},
+		{
+			"id": "806",
+			"russian": "неделя",
+			"english": "week",
+			"isGuessed": false
+		},
+		{
+			"id": "807",
+			"russian": "месяц",
+			"english": "month",
+			"isGuessed": false
+		},
+		{
+			"id": "808",
+			"russian": "год",
+			"english": "year",
+			"isGuessed": false
+		},
+		{
+			"id": "809",
+			"russian": "век",
+			"english": "century",
+			"isGuessed": false
+		},
+		{
+			"id": "810",
+			"russian": "время",
+			"english": "time",
+			"isGuessed": false
+		},
+		{
+			"id": "811",
+			"russian": "дата",
+			"english": "date",
+			"isGuessed": false
+		},
+		{
+			"id": "812",
+			"russian": "будильник",
+			"english": "alarm clock",
+			"isGuessed": false
+		},
+		{
+			"id": "813",
+			"russian": "хронометр",
+			"english": "stopwatch",
+			"isGuessed": false
+		},
+		{
+			"id": "814",
+			"russian": "секундомер",
+			"english": "stopwatch",
+			"isGuessed": false
+		},
+		{
+			"id": "815",
+			"russian": "расписание",
+			"english": "schedule",
+			"isGuessed": false
+		},
+		{
+			"id": "816",
+			"russian": "план",
+			"english": "plan",
+			"isGuessed": false
+		},
+		{
+			"id": "817",
+			"russian": "список",
+			"english": "list",
+			"isGuessed": false
+		},
+		{
+			"id": "818",
+			"russian": "задача",
+			"english": "task",
+			"isGuessed": false
+		},
+		{
+			"id": "819",
+			"russian": "цель",
+			"english": "goal",
+			"isGuessed": false
+		},
+		{
+			"id": "820",
+			"russian": "мечта",
+			"english": "dream",
+			"isGuessed": false
+		},
+		{
+			"id": "821",
+			"russian": "желание",
+			"english": "wish",
+			"isGuessed": false
+		},
+		{
+			"id": "822",
+			"russian": "надежда",
+			"english": "hope",
+			"isGuessed": false
+		},
+		{
+			"id": "823",
+			"russian": "вера",
+			"english": "faith",
+			"isGuessed": false
+		},
+		{
+			"id": "824",
+			"russian": "любовь",
+			"english": "love",
+			"isGuessed": false
+		},
+		{
+			"id": "825",
+			"russian": "ненависть",
+			"english": "hate",
+			"isGuessed": false
+		},
+		{
+			"id": "826",
+			"russian": "радость",
+			"english": "joy",
+			"isGuessed": false
+		},
+		{
+			"id": "827",
+			"russian": "грусть",
+			"english": "sadness",
+			"isGuessed": false
+		},
+		{
+			"id": "828",
+			"russian": "счастье",
+			"english": "happiness",
+			"isGuessed": false
+		},
+		{
+			"id": "829",
+			"russian": "печаль",
+			"english": "sorrow",
+			"isGuessed": false
+		},
+		{
+			"id": "830",
+			"russian": "злость",
+			"english": "anger",
+			"isGuessed": false
+		},
+		{
+			"id": "831",
+			"russian": "страх",
+			"english": "fear",
+			"isGuessed": false
+		},
+		{
+			"id": "832",
+			"russian": "ужас",
+			"english": "horror",
+			"isGuessed": false
+		},
+		{
+			"id": "833",
+			"russian": "удивление",
+			"english": "surprise",
+			"isGuessed": false
+		},
+		{
+			"id": "834",
+			"russian": "восхищение",
+			"english": "admiration",
+			"isGuessed": false
+		},
+		{
+			"id": "835",
+			"russian": "гордость",
+			"english": "pride",
+			"isGuessed": false
+		},
+		{
+			"id": "836",
+			"russian": "стыд",
+			"english": "shame",
+			"isGuessed": false
+		},
+		{
+			"id": "837",
+			"russian": "вина",
+			"english": "guilt",
+			"isGuessed": false
+		},
+		{
+			"id": "838",
+			"russian": "сожаление",
+			"english": "regret",
+			"isGuessed": false
+		},
+		{
+			"id": "839",
+			"russian": "жалость",
+			"english": "pity",
+			"isGuessed": false
+		},
+		{
+			"id": "840",
+			"russian": "сострадание",
+			"english": "compassion",
+			"isGuessed": false
+		},
+		{
+			"id": "841",
+			"russian": "милосердие",
+			"english": "mercy",
+			"isGuessed": false
+		},
+		{
+			"id": "842",
+			"russian": "доброта",
+			"english": "kindness",
+			"isGuessed": false
+		},
+		{
+			"id": "843",
+			"russian": "щедрость",
+			"english": "generosity",
+			"isGuessed": false
+		},
+		{
+			"id": "844",
+			"russian": "скупость",
+			"english": "stinginess",
+			"isGuessed": false
+		},
+		{
+			"id": "845",
+			"russian": "жадность",
+			"english": "greed",
+			"isGuessed": false
+		},
+		{
+			"id": "846",
+			"russian": "зависть",
+			"english": "envy",
+			"isGuessed": false
+		},
+		{
+			"id": "847",
+			"russian": "ревность",
+			"english": "jealousy",
+			"isGuessed": false
+		},
+		{
+			"id": "848",
+			"russian": "подозрение",
+			"english": "suspicion",
+			"isGuessed": false
+		},
+		{
+			"id": "849",
+			"russian": "доверие",
+			"english": "trust",
+			"isGuessed": false
+		},
+		{
+			"id": "850",
+			"russian": "уверенность",
+			"english": "confidence",
+			"isGuessed": false
+		},
+		{
+			"id": "851",
+			"russian": "сомнение",
+			"english": "doubt",
+			"isGuessed": false
+		},
+		{
+			"id": "852",
+			"russian": "неуверенность",
+			"english": "uncertainty",
+			"isGuessed": false
+		},
+		{
+			"id": "853",
+			"russian": "тревога",
+			"english": "anxiety",
+			"isGuessed": false
+		},
+		{
+			"id": "854",
+			"russian": "беспокойство",
+			"english": "worry",
+			"isGuessed": false
+		},
+		{
+			"id": "855",
+			"russian": "спокойствие",
+			"english": "calm",
+			"isGuessed": false
+		},
+		{
+			"id": "856",
+			"russian": "мир",
+			"english": "peace",
+			"isGuessed": false
+		},
+		{
+			"id": "857",
+			"russian": "война",
+			"english": "war",
+			"isGuessed": false
+		},
+		{
+			"id": "858",
+			"russian": "конфликт",
+			"english": "conflict",
+			"isGuessed": false
+		},
+		{
+			"id": "859",
+			"russian": "борьба",
+			"english": "struggle",
+			"isGuessed": false
+		},
+		{
+			"id": "860",
+			"russian": "победа",
+			"english": "victory",
+			"isGuessed": false
+		},
+		{
+			"id": "861",
+			"russian": "поражение",
+			"english": "defeat",
+			"isGuessed": false
+		},
+		{
+			"id": "862",
+			"russian": "успех",
+			"english": "success",
+			"isGuessed": false
+		},
+		{
+			"id": "863",
+			"russian": "неудача",
+			"english": "failure",
+			"isGuessed": false
+		},
+		{
+			"id": "864",
+			"russian": "ошибка",
+			"english": "mistake",
+			"isGuessed": false
+		},
+		{
+			"id": "865",
+			"russian": "провал",
+			"english": "failure",
+			"isGuessed": false
+		},
+		{
+			"id": "866",
+			"russian": "триумф",
+			"english": "triumph",
+			"isGuessed": false
+		},
+		{
+			"id": "867",
+			"russian": "достижение",
+			"english": "achievement",
+			"isGuessed": false
+		},
+		{
+			"id": "868",
+			"russian": "достичь",
+			"english": "achieve",
+			"isGuessed": false
+		},
+		{
+			"id": "869",
+			"russian": "получить",
+			"english": "get",
+			"isGuessed": false
+		},
+		{
+			"id": "870",
+			"russian": "взять",
+			"english": "take",
+			"isGuessed": false
+		},
+		{
+			"id": "871",
+			"russian": "дать",
+			"english": "give",
+			"isGuessed": false
+		},
+		{
+			"id": "872",
+			"russian": "отдать",
+			"english": "give away",
+			"isGuessed": false
+		},
+		{
+			"id": "873",
+			"russian": "получить",
+			"english": "receive",
+			"isGuessed": false
+		},
+		{
+			"id": "874",
+			"russian": "принять",
+			"english": "accept",
+			"isGuessed": false
+		},
+		{
+			"id": "875",
+			"russian": "отказать",
+			"english": "refuse",
+			"isGuessed": false
+		},
+		{
+			"id": "876",
+			"russian": "отклонить",
+			"english": "reject",
+			"isGuessed": false
+		},
+		{
+			"id": "877",
+			"russian": "согласиться",
+			"english": "agree",
+			"isGuessed": false
+		},
+		{
+			"id": "878",
+			"russian": "не согласиться",
+			"english": "disagree",
+			"isGuessed": false
+		},
+		{
+			"id": "879",
+			"russian": "согласие",
+			"english": "agreement",
+			"isGuessed": false
+		},
+		{
+			"id": "880",
+			"russian": "красный",
+			"english": "red",
+			"isGuessed": false
+		},
+		{
+			"id": "881",
+			"russian": "синий",
+			"english": "blue",
+			"isGuessed": false
+		},
+		{
+			"id": "882",
+			"russian": "зеленый",
+			"english": "green",
+			"isGuessed": false
+		},
+		{
+			"id": "883",
+			"russian": "желтый",
+			"english": "yellow",
+			"isGuessed": false
+		},
+		{
+			"id": "884",
+			"russian": "оранжевый",
+			"english": "orange",
+			"isGuessed": false
+		},
+		{
+			"id": "885",
+			"russian": "фиолетовый",
+			"english": "purple",
+			"isGuessed": false
+		},
+		{
+			"id": "886",
+			"russian": "розовый",
+			"english": "pink",
+			"isGuessed": false
+		},
+		{
+			"id": "887",
+			"russian": "коричневый",
+			"english": "brown",
+			"isGuessed": false
+		},
+		{
+			"id": "888",
+			"russian": "черный",
+			"english": "black",
+			"isGuessed": false
+		},
+		{
+			"id": "889",
+			"russian": "белый",
+			"english": "white",
+			"isGuessed": false
+		},
+		{
+			"id": "890",
+			"russian": "серый",
+			"english": "gray",
+			"isGuessed": false
+		},
+		{
+			"id": "891",
+			"russian": "бежевый",
+			"english": "beige",
+			"isGuessed": false
+		},
+		{
+			"id": "892",
+			"russian": "золотой",
+			"english": "gold",
+			"isGuessed": false
+		},
+		{
+			"id": "893",
+			"russian": "серебряный",
+			"english": "silver",
+			"isGuessed": false
+		},
+		{
+			"id": "894",
+			"russian": "бронзовый",
+			"english": "bronze",
+			"isGuessed": false
+		},
+		{
+			"id": "895",
+			"russian": "большой",
+			"english": "big",
+			"isGuessed": false
+		},
+		{
+			"id": "896",
+			"russian": "маленький",
+			"english": "small",
+			"isGuessed": false
+		},
+		{
+			"id": "897",
+			"russian": "большой",
+			"english": "large",
+			"isGuessed": false
+		},
+		{
+			"id": "898",
+			"russian": "маленький",
+			"english": "little",
+			"isGuessed": false
+		},
+		{
+			"id": "899",
+			"russian": "огромный",
+			"english": "huge",
+			"isGuessed": false
+		},
+		{
+			"id": "900",
+			"russian": "крошечный",
+			"english": "tiny",
+			"isGuessed": false
+		},
+		{
+			"id": "901",
+			"russian": "высокий",
+			"english": "tall",
+			"isGuessed": false
+		},
+		{
+			"id": "902",
+			"russian": "низкий",
+			"english": "short",
+			"isGuessed": false
+		},
+		{
+			"id": "903",
+			"russian": "длинный",
+			"english": "long",
+			"isGuessed": false
+		},
+		{
+			"id": "904",
+			"russian": "короткий",
+			"english": "short",
+			"isGuessed": false
+		},
+		{
+			"id": "905",
+			"russian": "широкий",
+			"english": "wide",
+			"isGuessed": false
+		},
+		{
+			"id": "906",
+			"russian": "узкий",
+			"english": "narrow",
+			"isGuessed": false
+		},
+		{
+			"id": "907",
+			"russian": "толстый",
+			"english": "thick",
+			"isGuessed": false
+		},
+		{
+			"id": "908",
+			"russian": "тонкий",
+			"english": "thin",
+			"isGuessed": false
+		},
+		{
+			"id": "909",
+			"russian": "толстый",
+			"english": "fat",
+			"isGuessed": false
+		},
+		{
+			"id": "910",
+			"russian": "худой",
+			"english": "thin",
+			"isGuessed": false
+		},
+		{
+			"id": "911",
+			"russian": "полный",
+			"english": "full",
+			"isGuessed": false
+		},
+		{
+			"id": "912",
+			"russian": "пустой",
+			"english": "empty",
+			"isGuessed": false
+		},
+		{
+			"id": "913",
+			"russian": "тяжелый",
+			"english": "heavy",
+			"isGuessed": false
+		},
+		{
+			"id": "914",
+			"russian": "легкий",
+			"english": "light",
+			"isGuessed": false
+		},
+		{
+			"id": "915",
+			"russian": "быстрый",
+			"english": "fast",
+			"isGuessed": false
+		},
+		{
+			"id": "916",
+			"russian": "медленный",
+			"english": "slow",
+			"isGuessed": false
+		},
+		{
+			"id": "917",
+			"russian": "новый",
+			"english": "new",
+			"isGuessed": false
+		},
+		{
+			"id": "918",
+			"russian": "старый",
+			"english": "old",
+			"isGuessed": false
+		},
+		{
+			"id": "919",
+			"russian": "молодой",
+			"english": "young",
+			"isGuessed": false
+		},
+		{
+			"id": "920",
+			"russian": "старый",
+			"english": "aged",
+			"isGuessed": false
+		},
+		{
+			"id": "921",
+			"russian": "свежий",
+			"english": "fresh",
+			"isGuessed": false
+		},
+		{
+			"id": "922",
+			"russian": "испорченный",
+			"english": "spoiled",
+			"isGuessed": false
+		},
+		{
+			"id": "923",
+			"russian": "хороший",
+			"english": "good",
+			"isGuessed": false
+		},
+		{
+			"id": "924",
+			"russian": "плохой",
+			"english": "bad",
+			"isGuessed": false
+		},
+		{
+			"id": "925",
+			"russian": "отличный",
+			"english": "excellent",
+			"isGuessed": false
+		},
+		{
+			"id": "926",
+			"russian": "ужасный",
+			"english": "terrible",
+			"isGuessed": false
+		},
+		{
+			"id": "927",
+			"russian": "прекрасный",
+			"english": "wonderful",
+			"isGuessed": false
+		},
+		{
+			"id": "928",
+			"russian": "ужасный",
+			"english": "awful",
+			"isGuessed": false
+		},
+		{
+			"id": "929",
+			"russian": "замечательный",
+			"english": "wonderful",
+			"isGuessed": false
+		},
+		{
+			"id": "930",
+			"russian": "красивый",
+			"english": "beautiful",
+			"isGuessed": false
+		},
+		{
+			"id": "931",
+			"russian": "уродливый",
+			"english": "ugly",
+			"isGuessed": false
+		},
+		{
+			"id": "932",
+			"russian": "привлекательный",
+			"english": "attractive",
+			"isGuessed": false
+		},
+		{
+			"id": "933",
+			"russian": "непривлекательный",
+			"english": "unattractive",
+			"isGuessed": false
+		},
+		{
+			"id": "934",
+			"russian": "милый",
+			"english": "cute",
+			"isGuessed": false
+		},
+		{
+			"id": "935",
+			"russian": "симпатичный",
+			"english": "cute",
+			"isGuessed": false
+		},
+		{
+			"id": "936",
+			"russian": "милый",
+			"english": "sweet",
+			"isGuessed": false
+		},
+		{
+			"id": "937",
+			"russian": "добрый",
+			"english": "kind",
+			"isGuessed": false
+		},
+		{
+			"id": "938",
+			"russian": "злой",
+			"english": "evil",
+			"isGuessed": false
+		},
+		{
+			"id": "939",
+			"russian": "добрый",
+			"english": "good",
+			"isGuessed": false
+		},
+		{
+			"id": "940",
+			"russian": "злой",
+			"english": "bad",
+			"isGuessed": false
+		},
+		{
+			"id": "941",
+			"russian": "вежливый",
+			"english": "polite",
+			"isGuessed": false
+		},
+		{
+			"id": "942",
+			"russian": "грубый",
+			"english": "rude",
+			"isGuessed": false
+		},
+		{
+			"id": "943",
+			"russian": "вежливый",
+			"english": "courteous",
+			"isGuessed": false
+		},
+		{
+			"id": "944",
+			"russian": "грубый",
+			"english": "impolite",
+			"isGuessed": false
+		},
+		{
+			"id": "945",
+			"russian": "умный",
+			"english": "smart",
+			"isGuessed": false
+		},
+		{
+			"id": "946",
+			"russian": "глупый",
+			"english": "stupid",
+			"isGuessed": false
+		},
+		{
+			"id": "947",
+			"russian": "умный",
+			"english": "intelligent",
+			"isGuessed": false
+		},
+		{
+			"id": "948",
+			"russian": "глупый",
+			"english": "foolish",
+			"isGuessed": false
+		},
+		{
+			"id": "949",
+			"russian": "мудрый",
+			"english": "wise",
+			"isGuessed": false
+		},
+		{
+			"id": "950",
+			"russian": "глупый",
+			"english": "silly",
+			"isGuessed": false
+		},
+		{
+			"id": "951",
+			"russian": "серьезный",
+			"english": "serious",
+			"isGuessed": false
+		},
+		{
+			"id": "952",
+			"russian": "веселый",
+			"english": "funny",
+			"isGuessed": false
+		},
+		{
+			"id": "953",
+			"russian": "смешной",
+			"english": "funny",
+			"isGuessed": false
+		},
+		{
+			"id": "954",
+			"russian": "грустный",
+			"english": "sad",
+			"isGuessed": false
+		},
+		{
+			"id": "955",
+			"russian": "счастливый",
+			"english": "happy",
+			"isGuessed": false
+		},
+		{
+			"id": "956",
+			"russian": "радостный",
+			"english": "joyful",
+			"isGuessed": false
+		},
+		{
+			"id": "957",
+			"russian": "печальный",
+			"english": "sad",
+			"isGuessed": false
+		},
+		{
+			"id": "958",
+			"russian": "грустный",
+			"english": "sorrowful",
+			"isGuessed": false
+		},
+		{
+			"id": "959",
+			"russian": "злой",
+			"english": "angry",
+			"isGuessed": false
+		},
+		{
+			"id": "960",
+			"russian": "разозленный",
+			"english": "angry",
+			"isGuessed": false
+		},
+		{
+			"id": "961",
+			"russian": "спокойный",
+			"english": "calm",
+			"isGuessed": false
+		},
+		{
+			"id": "962",
+			"russian": "взволнованный",
+			"english": "excited",
+			"isGuessed": false
+		},
+		{
+			"id": "963",
+			"russian": "взволнованный",
+			"english": "agitated",
+			"isGuessed": false
+		},
+		{
+			"id": "964",
+			"russian": "нервный",
+			"english": "nervous",
+			"isGuessed": false
+		},
+		{
+			"id": "965",
+			"russian": "спокойный",
+			"english": "peaceful",
+			"isGuessed": false
+		},
+		{
+			"id": "966",
+			"russian": "тихий",
+			"english": "quiet",
+			"isGuessed": false
+		},
+		{
+			"id": "967",
+			"russian": "громкий",
+			"english": "loud",
+			"isGuessed": false
+		},
+		{
+			"id": "968",
+			"russian": "тихий",
+			"english": "silent",
+			"isGuessed": false
+		},
+		{
+			"id": "969",
+			"russian": "шумный",
+			"english": "noisy",
+			"isGuessed": false
+		},
+		{
+			"id": "970",
+			"russian": "тихий",
+			"english": "soft",
+			"isGuessed": false
+		},
+		{
+			"id": "971",
+			"russian": "тихий",
+			"english": "gentle",
+			"isGuessed": false
+		},
+		{
+			"id": "972",
+			"russian": "резкий",
+			"english": "sharp",
+			"isGuessed": false
+		},
+		{
+			"id": "973",
+			"russian": "мягкий",
+			"english": "soft",
+			"isGuessed": false
+		},
+		{
+			"id": "974",
+			"russian": "твердый",
+			"english": "hard",
+			"isGuessed": false
+		},
+		{
+			"id": "975",
+			"russian": "твердый",
+			"english": "solid",
+			"isGuessed": false
+		},
+		{
+			"id": "976",
+			"russian": "жидкий",
+			"english": "liquid",
+			"isGuessed": false
+		},
+		{
+			"id": "977",
+			"russian": "газообразный",
+			"english": "gaseous",
+			"isGuessed": false
+		},
+		{
+			"id": "978",
+			"russian": "горячий",
+			"english": "hot",
+			"isGuessed": false
+		},
+		{
+			"id": "979",
+			"russian": "холодный",
+			"english": "cold",
+			"isGuessed": false
+		},
+		{
+			"id": "980",
+			"russian": "теплый",
+			"english": "warm",
+			"isGuessed": false
+		},
+		{
+			"id": "981",
+			"russian": "прохладный",
+			"english": "cool",
+			"isGuessed": false
+		},
+		{
+			"id": "982",
+			"russian": "жаркий",
+			"english": "hot",
+			"isGuessed": false
+		},
+		{
+			"id": "983",
+			"russian": "морозный",
+			"english": "frosty",
+			"isGuessed": false
+		},
+		{
+			"id": "984",
+			"russian": "ледяной",
+			"english": "icy",
+			"isGuessed": false
+		},
+		{
+			"id": "985",
+			"russian": "горячий",
+			"english": "burning",
+			"isGuessed": false
+		},
+		{
+			"id": "986",
+			"russian": "холодный",
+			"english": "freezing",
+			"isGuessed": false
+		},
+		{
+			"id": "987",
+			"russian": "теплый",
+			"english": "mild",
+			"isGuessed": false
+		},
+		{
+			"id": "988",
+			"russian": "сухой",
+			"english": "dry",
+			"isGuessed": false
+		},
+		{
+			"id": "989",
+			"russian": "мокрый",
+			"english": "wet",
+			"isGuessed": false
+		},
+		{
+			"id": "990",
+			"russian": "влажный",
+			"english": "moist",
+			"isGuessed": false
+		},
+		{
+			"id": "991",
+			"russian": "сырой",
+			"english": "raw",
+			"isGuessed": false
+		},
+		{
+			"id": "992",
+			"russian": "сухой",
+			"english": "arid",
+			"isGuessed": false
+		},
+		{
+			"id": "993",
+			"russian": "мокрый",
+			"english": "damp",
+			"isGuessed": false
+		},
+		{
+			"id": "994",
+			"russian": "влажный",
+			"english": "humid",
+			"isGuessed": false
+		},
+		{
+			"id": "995",
+			"russian": "сухой",
+			"english": "parched",
+			"isGuessed": false
+		},
+		{
+			"id": "996",
+			"russian": "мокрый",
+			"english": "soaked",
+			"isGuessed": false
+		},
+		{
+			"id": "997",
+			"russian": "влажный",
+			"english": "drenched",
+			"isGuessed": false
+		},
+		{
+			"id": "998",
+			"russian": "чистый",
+			"english": "clean",
+			"isGuessed": false
+		},
+		{
+			"id": "999",
+			"russian": "грязный",
+			"english": "dirty",
+			"isGuessed": false
+		},
+		{
+			"id": "1000",
+			"russian": "чистый",
+			"english": "pure",
+			"isGuessed": false
+		}
+	]
+}
