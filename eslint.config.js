@@ -1,42 +1,35 @@
-import js from "@eslint/js";
-import react from "eslint-plugin-react";
-import globals from "globals";
-import prettier from "eslint-plugin-prettier";
-import prettierConfig from "eslint-config-prettier";
+import js from '@eslint/js'
+import globals from 'globals'
+import react from 'eslint-plugin-react'
+import reactHooks from 'eslint-plugin-react-hooks'
+import prettier from 'eslint-config-prettier'
 
 export default [
-  {
-    files: ["**/*.{js,jsx}"],
+    js.configs.recommended,
+    prettier,
+    {
+        files: ['**/*.{js,jsx}'],
+        languageOptions: {
+            ecmaVersion: 'latest',
+            sourceType: 'module',
+            globals: {
+                ...globals.browser,
+                ...globals.node,
+            },
+        },
+        plugins: {
+            react,
+            'react-hooks': reactHooks,
+        },
+        rules: {
+            'react/react-in-jsx-scope': 'off',
+            'react/prop-types': 'off',
 
-    languageOptions: {
-      ecmaVersion: 2023,
-      sourceType: "module",
-      globals: {
-        ...globals.browser,
-        ...globals.node
-      },
-      parserOptions: { ecmaFeatures: { jsx: true } }
+            'react-hooks/rules-of-hooks': 'error',
+            'react-hooks/exhaustive-deps': 'warn',
+        },
     },
-
-    plugins: {
-      react,
-      prettier
+    {
+        ignores: ['node_modules/', 'build/'],
     },
-
-    rules: {
-      ...js.configs.recommended.rules,
-      ...react.configs.recommended.rules,
-
-      "no-unused-vars": "warn",
-      "react/prop-types": "off",
-      "react/react-in-jsx-scope": "off",
-
-
-      "prettier/prettier": "error"
-    },
-
-    settings: { react: { version: "detect" } },
-
-    extends: [prettierConfig] 
-  }
-];
+]
