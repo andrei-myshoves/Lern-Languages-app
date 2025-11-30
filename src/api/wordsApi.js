@@ -1,4 +1,4 @@
-import api from './axios'
+import { api } from './axios'
 
 export const WordsApi = {
     getAll: () => api.get('/words'),
