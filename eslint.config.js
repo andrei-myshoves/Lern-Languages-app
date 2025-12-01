@@ -16,6 +16,9 @@ export default [
                 ...globals.browser,
                 ...globals.node,
             },
+            parserOptions: {
+                ecmaFeatures: { jsx: true },
+            },
         },
         plugins: {
             react,
@@ -24,9 +27,9 @@ export default [
         rules: {
             'react/react-in-jsx-scope': 'off',
             'react/prop-types': 'off',
-
             'react-hooks/rules-of-hooks': 'error',
             'react-hooks/exhaustive-deps': 'warn',
+            'no-unused-vars': ['warn', { varsIgnorePattern: 'React|AppRouter' }],
         },
     },
     {
