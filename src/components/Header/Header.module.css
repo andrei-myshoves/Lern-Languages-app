@@ -1,5 +1,5 @@
 .header {
-    background: #f4f4f4;
+    background: var(--color-background);
     padding: 16px;
     border-radius: 25px;
 }
@@ -11,12 +11,12 @@
 
 .link {
     text-decoration: none;
-    color: #333;
+    color: var(--color-foreground);
     font-size: 18px;
     transition: 0.2s;
 }
 
 .active {
     font-weight: bold;
-    color: #0070f3;
+    color: var(--color-active);
 }
