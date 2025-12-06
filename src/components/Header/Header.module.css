@@ -1,0 +1,22 @@
+.header {
+    background: var(--color-background);
+    padding: 16px;
+    border-radius: 25px;
+}
+
+.nav {
+    display: flex;
+    gap: 20px;
+}
+
+.link {
+    text-decoration: none;
+    color: var(--color-foreground);
+    font-size: 18px;
+    transition: 0.2s;
+}
+
+.active {
+    font-weight: bold;
+    color: var(--color-active);
+}

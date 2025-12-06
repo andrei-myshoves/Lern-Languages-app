@@ -88,3 +88,9 @@ h6 {
     font-size: 18px;
     min-height: 100svh;
 }
+
+:root {
+    --color-foreground: #333;
+    --color-background: #f4f4f4;
+    --color-active: #0070f3;
+}
