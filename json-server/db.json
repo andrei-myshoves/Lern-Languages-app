@@ -4772,7 +4772,7 @@
             "id": "795",
             "russian": "воскресенье",
             "english": "Sunday",
-            "isGuessed": false
+            "isGuessed": true
         },
         {
             "id": "796",
@@ -5300,7 +5300,7 @@
             "id": "883",
             "russian": "желтый",
             "english": "yellow",
-            "isGuessed": false
+            "isGuessed": true
         },
         {
             "id": "884",

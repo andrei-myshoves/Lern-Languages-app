@@ -1,5 +1,6 @@
 import { useState } from 'react'
 import styles from './HomePage.module.css'
+import WordTrainer from '../../components/WordTrainer/WordTrainer'
 
 export default function HomePage() {
     const [isLearning, setIsLearning] = useState(false)
@@ -19,7 +20,7 @@ export default function HomePage() {
             {isLearning && (
                 <div className={styles.learningBlock}>
                     <h2>Режим изучения слов</h2>
-                    <p>Здесь будут слова для изучения...</p>
+                    <WordTrainer />
                 </div>
             )}
         </div>
