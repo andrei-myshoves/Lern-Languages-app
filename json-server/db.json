@@ -1040,7 +1040,7 @@
             "id": "173",
             "russian": "мать",
             "english": "mother",
-            "isGuessed": false
+            "isGuessed": true
         },
         {
             "id": "174",
@@ -1418,7 +1418,7 @@
             "id": "236",
             "russian": "календарь",
             "english": "calendar",
-            "isGuessed": false
+            "isGuessed": true
         },
         {
             "id": "237",
@@ -2582,7 +2582,7 @@
             "id": "430",
             "russian": "якорь",
             "english": "anchor",
-            "isGuessed": false
+            "isGuessed": true
         },
         {
             "id": "431",
@@ -4448,7 +4448,7 @@
             "id": "741",
             "russian": "ARP",
             "english": "ARP",
-            "isGuessed": false
+            "isGuessed": true
         },
         {
             "id": "742",
@@ -4730,7 +4730,7 @@
             "id": "788",
             "russian": "декабрь",
             "english": "December",
-            "isGuessed": false
+            "isGuessed": true
         },
         {
             "id": "789",
@@ -5372,7 +5372,7 @@
             "id": "895",
             "russian": "большой",
             "english": "big",
-            "isGuessed": false
+            "isGuessed": true
         },
         {
             "id": "896",
@@ -5726,7 +5726,7 @@
             "id": "954",
             "russian": "грустный",
             "english": "sad",
-            "isGuessed": false
+            "isGuessed": true
         },
         {
             "id": "955",

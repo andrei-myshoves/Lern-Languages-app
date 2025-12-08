@@ -1,6 +1,7 @@
 import { useEffect, useState } from 'react'
 import axios from 'axios'
 import styles from './WordTrainer.module.css'
+import { useLocalStorage } from '../../hooks/useLocalStorage'
 
 export default function WordTrainer() {
     const [word, setWord] = useState(null)
@@ -8,10 +9,13 @@ export default function WordTrainer() {
     const [result, setResult] = useState(null)
     const [loading, setLoading] = useState(false)
 
+    const [learnedWords, setLearnedWords] = useLocalStorage('learnedWords', [])
+
     const loadWord = async () => {
         try {
             setLoading(true)
             const res = await axios.get('http://localhost:8000/words/random')
+
             setWord(res.data)
             setAnswer('')
             setResult(null)
@@ -28,7 +32,6 @@ export default function WordTrainer() {
 
     const checkWord = async e => {
         e.preventDefault()
-
         if (!word) return
 
         try {
@@ -37,12 +40,13 @@ export default function WordTrainer() {
                 english: answer,
             })
 
-            setResult(res.data.success ? 'correct' : 'wrong')
+            const isCorrect = res.data.success
+            setResult(isCorrect ? 'correct' : 'wrong')
 
-            if (res.data.success) {
-                setTimeout(() => {
-                    loadWord()
-                }, 1000)
+            if (isCorrect) {
+                setLearnedWords(prev => (prev.includes(word.id) ? prev : [...prev, word.id]))
+
+                setTimeout(() => loadWord(), 800)
             }
         } catch (err) {
             console.error('Ошибка проверки:', err)
@@ -57,6 +61,7 @@ export default function WordTrainer() {
     return (
         <div className={styles.wrapper}>
             <h2 className={styles.question}>Переведи слово:</h2>
+
             <div className={styles.word}>{word.russian}</div>
 
             <form onSubmit={checkWord} className={styles.form}>
@@ -70,7 +75,10 @@ export default function WordTrainer() {
             </form>
 
             {result === 'correct' && <div className={styles.correct}> Правильно!</div>}
-            {result === 'wrong' && <div className={styles.wrong}> Неправильно</div>}
+
+            {result === 'wrong' && <div className={styles.wrong}>Неправильно</div>}
+
+            <div className={styles.progress}>Выучено слов: {learnedWords.length}</div>
         </div>
     )
 }
