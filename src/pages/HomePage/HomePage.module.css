@@ -4,13 +4,7 @@
 }
 
 .startBtn {
-    padding: 12px 20px;
     font-size: 18px;
-    border: none;
-    background: var(--color-border);
-    color: white;
-    border-radius: 8px;
-    cursor: pointer;
 }
 
 .learningBlock {

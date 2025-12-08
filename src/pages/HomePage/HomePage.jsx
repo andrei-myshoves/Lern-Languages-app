@@ -1,6 +1,7 @@
 import { useState } from 'react'
 import styles from './HomePage.module.css'
 import WordTrainer from '../../components/WordTrainer/WordTrainer'
+import Button from '../../components/UI/Button/Button.jsx'
 
 export default function HomePage() {
     const [isLearning, setIsLearning] = useState(false)
@@ -12,9 +13,9 @@ export default function HomePage() {
     return (
         <div className={styles.container}>
             {!isLearning && (
-                <button className={styles.startBtn} onClick={handleStartLearning}>
+                <Button className={`${styles.startBtn}`} onClick={handleStartLearning}>
                     Начать изучение
-                </button>
+                </Button>
             )}
 
             {isLearning && (
