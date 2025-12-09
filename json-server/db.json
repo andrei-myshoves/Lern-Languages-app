@@ -1,7 +1,9 @@
 {
     "profile": {
         "firstName": "Andrej",
-        "age": 25
+        "lastName": "Mushovets",
+        "birthDate": "2000-05-17",
+        "age": "25"
     },
     "words": [
         {
