@@ -1,0 +1,47 @@
+.wrapper {
+    padding: 20px;
+    max-width: 400px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.question {
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.word {
+    font-size: 32px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.form {
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    margin-bottom: 15px;
+}
+
+.input {
+    padding: 10px;
+    font-size: 16px;
+    flex: 1;
+}
+
+.correct {
+    color: green;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.wrong {
+    color: red;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.loading {
+    text-align: center;
+    margin-top: 40px;
+}

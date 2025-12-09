@@ -1,0 +1,21 @@
+.container {
+    padding: 20px;
+    text-align: center;
+}
+
+.startBtn {
+    font-size: 18px;
+}
+
+.learningBlock {
+    margin-top: 20px;
+    padding: 20px;
+    border: 2px solid var(--color-accent);
+    border-radius: 10px;
+}
+
+@media (hover: hover) {
+    .startBtn:hover {
+        background: var(--color-accent-hover);
+    }
+}

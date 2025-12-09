@@ -93,4 +93,7 @@ h6 {
     --color-foreground: #333;
     --color-background: #f4f4f4;
     --color-active: #0070f3;
+    --color-accent: #4a90e2;
+    --color-accent-hover: #3a78c2;
+    --color-border: #262f3a;
 }

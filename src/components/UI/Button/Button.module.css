@@ -1,0 +1,16 @@
+.button {
+    padding: 12px 20px;
+    font-weight: 600;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    background-color: var(--color-accent);
+    color: white;
+    transition: 0.2s ease;
+}
+
+@media (hover: hover) {
+    .button:hover {
+        background-color: var(--color-accent-hover);
+    }
+}
