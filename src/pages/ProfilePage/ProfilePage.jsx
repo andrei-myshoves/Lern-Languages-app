@@ -2,7 +2,7 @@ import { useEffect, useState } from 'react'
 import axios from 'axios'
 import styles from './ProfilePage.module.css'
 import Button from '../../components/UI/Button/Button'
-
+import LearnedWordsList from '../../components/LearnedWordList/LearnedWordList.jsx'
 export default function ProfilePage() {
     const [user, setUser] = useState(null)
     const [isEditing, setIsEditing] = useState(false)
@@ -48,7 +48,7 @@ export default function ProfilePage() {
         <div className={styles.wrapper}>
             <h2 className={styles.title}>Профиль пользователя</h2>
 
-            {!isEditing && (
+            {!isEditing ? (
                 <div className={styles.info}>
                     <p>
                         <strong>Имя:</strong> {user.firstName}
@@ -65,9 +65,7 @@ export default function ProfilePage() {
 
                     <Button onClick={() => setIsEditing(true)}>Редактировать</Button>
                 </div>
-            )}
-
-            {isEditing && (
+            ) : (
                 <div className={styles.form}>
                     <label>
                         Имя:
@@ -95,6 +93,10 @@ export default function ProfilePage() {
                     </div>
                 </div>
             )}
+
+            <div className={styles.learnedWordsSection}>
+                <LearnedWordsList />
+            </div>
         </div>
     )
 }
