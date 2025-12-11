@@ -1,0 +1,72 @@
+.wrapper {
+    margin-top: 30px;
+    padding: 20px;
+    border: 1px solid var(--color-border);
+    border-radius: 12px;
+    background: var(--color-background);
+}
+
+.title {
+    font-size: 22px;
+    margin-bottom: 20px;
+    color: var(--color-foreground);
+}
+
+.filters {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 20px;
+}
+
+.filters button {
+    padding: 8px 15px;
+    border: 1px solid var(--color-border);
+    cursor: pointer;
+    border-radius: 6px;
+    transition: 0.2s ease;
+}
+
+.active {
+    background: var(--color-accent);
+    color: white;
+    border-color: var(--color-accent);
+}
+
+.list {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}
+
+.card {
+    padding: 15px;
+    border: 1px solid var(--color-border);
+    border-radius: 10px;
+    background: var(--color-card-bg);
+}
+
+.correct {
+    display: inline-block;
+    margin-top: 8px;
+    padding: 4px 10px;
+    border-radius: 6px;
+    background: #c8f7d4;
+    color: #0f7a26;
+    font-weight: bold;
+}
+
+.wrong {
+    display: inline-block;
+    margin-top: 8px;
+    padding: 4px 10px;
+    border-radius: 6px;
+    background: #ffd4d4;
+    color: #a30505;
+    font-weight: bold;
+}
+
+@media (hover: hover) {
+    .filters button:hover {
+        background: var(--color-filter-bg-hover);
+    }
+}

@@ -96,4 +96,6 @@ h6 {
     --color-accent: #4a90e2;
     --color-accent-hover: #3a78c2;
     --color-border: #262f3a;
+    --color-card-bg: #fafafa;
+    --color-filter-bg-hover: #eaeaea;
 }
