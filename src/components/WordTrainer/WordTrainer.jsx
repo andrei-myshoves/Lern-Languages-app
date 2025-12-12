@@ -1,5 +1,5 @@
 import { useEffect, useState } from 'react'
-import axios from 'axios'
+import { WordsApi } from '../../api/wordsApi.js'
 import styles from './WordTrainer.module.css'
 import { useLocalStorage } from '../../hooks/useLocalStorage'
 import Button from '../UI/Button/Button.jsx'
@@ -15,7 +15,7 @@ export default function WordTrainer() {
     const loadWord = async () => {
         try {
             setLoading(true)
-            const res = await axios.get('http://localhost:8000/words/random')
+            const res = await WordsApi.getRandom()
             setWord(res.data)
             setAnswer('')
             setResult(null)
@@ -35,7 +35,7 @@ export default function WordTrainer() {
         if (!word) return
 
         try {
-            const res = await axios.post('http://localhost:8000/words/check', {
+            const res = await WordsApi.checkWord({
                 wordId: word.id,
                 english: answer,
             })
@@ -45,7 +45,7 @@ export default function WordTrainer() {
 
             if (isCorrect) {
                 setLearnedWords(prev => (prev.includes(word.id) ? prev : [...prev, word.id]))
-                setTimeout(() => loadWord(), 800)
+                setTimeout(loadWord, 800)
             }
         } catch (err) {
             console.error('Ошибка проверки:', err)
@@ -72,7 +72,7 @@ export default function WordTrainer() {
                 <Button>Проверить</Button>
             </form>
 
-            {result === 'correct' && <div className={styles.correct}> Правильно!</div>}
+            {result === 'correct' && <div className={styles.correct}>Правильно!</div>}
             {result === 'wrong' && <div className={styles.wrong}>Неправильно</div>}
 
             <div className={styles.progress}>Выучено слов: {learnedWords.length}</div>
