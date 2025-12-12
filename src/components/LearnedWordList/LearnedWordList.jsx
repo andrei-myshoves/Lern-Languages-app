@@ -1,5 +1,5 @@
 import { useEffect, useState } from 'react'
-import axios from 'axios'
+import { api } from '../../api/axios.js'
 import styles from './LearnedWordList.module.css'
 
 export default function LearnedWordsList() {
@@ -9,7 +9,7 @@ export default function LearnedWordsList() {
     useEffect(() => {
         const loadWords = async () => {
             try {
-                const res = await axios.get('http://localhost:8000/words')
+                const res = await api.get('/words')
                 setWords(res.data)
             } catch {
                 console.error('Ошибка загрузки слов')

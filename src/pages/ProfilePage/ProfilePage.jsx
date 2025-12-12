@@ -1,8 +1,9 @@
 import { useEffect, useState } from 'react'
-import axios from 'axios'
+import { api } from '../../api/axios.js'
 import styles from './ProfilePage.module.css'
 import Button from '../../components/UI/Button/Button'
 import LearnedWordsList from '../../components/LearnedWordList/LearnedWordList.jsx'
+
 export default function ProfilePage() {
     const [user, setUser] = useState(null)
     const [isEditing, setIsEditing] = useState(false)
@@ -12,7 +13,7 @@ export default function ProfilePage() {
     useEffect(() => {
         const loadProfile = async () => {
             try {
-                const res = await axios.get('http://localhost:8000/profile')
+                const res = await api.get('/profile')
                 setUser(res.data)
                 setForm(res.data)
             } catch {
@@ -34,7 +35,7 @@ export default function ProfilePage() {
 
     const saveChanges = async () => {
         try {
-            const res = await axios.patch('http://localhost:8000/profile', form)
+            const res = await api.patch('/profile', form)
             setUser(res.data)
             setIsEditing(false)
         } catch {
